@@ -67,8 +67,10 @@ To learn more about deploying a bot to Azure, see [Deploy your bot to Azure](htt
 - [Language Understanding using LUIS](https://docs.microsoft.com/en-us/azure/cognitive-services/luis/)
 - [Channels and Bot Connector Service](https://docs.microsoft.com/en-us/azure/bot-service/bot-concepts?view=azure-bot-service-4.0)
 
+luis profile primary key d68868a246ee4552b246d1249ae2273e
+luis app primary key 346fd1977b174cfea0a707e571e77d55
 dispatch init -n netways_dis --luisAuthoringKey "d68868a246ee4552b246d1249ae2273e" --luisAuthoringRegion westus
 
 dispatch add -t luis -i "b80f94ae-439a-44f0-ae2f-492af5954e9a" -n "IssueReporting" -v 0.1 -k "d68868a246ee4552b246d1249ae2273e" --intentName l_IssueReporting
 dispatch add -t luis -i "1d50b722-c00f-410e-83b3-aed894172bda" -n "ProductOrdering" -v 0.1 -k "d68868a246ee4552b246d1249ae2273e" --intentName l_ProductOrdering
-dispatch add -t qna -i "01305c7e-f972-4772-ad8f-7f8d5688c0b5" -n "DemoKB" -k "f495ca7f-ca3e-4cb6-98a8-ec2587efba4d" --intentName q_ms_faq
+dispatch add -t qna -i "01305c7e-f972-4772-ad8f-7f8d5688c0b5" -n "DemoKB" -k "6cc2a7fac0154ebaa73f4b3efdcce191" --intentName q_ms_faq

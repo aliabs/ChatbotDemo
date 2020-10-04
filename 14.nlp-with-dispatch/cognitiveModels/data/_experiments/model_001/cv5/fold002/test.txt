@@ -1,0 +1,1966 @@
+Label	Weight	Text
+l_IssueReporting	1	i have an issue with my laptop
+l_IssueReporting	1	any new update on my issues
+l_ProductOrdering	1	i want to buy new items
+l_ProductOrdering	1	any updates on my order
+q_ms_faq	1	I need to take pills
+q_ms_faq	1	I'm definitely brighter than you
+q_ms_faq	1	That was pretty astute
+q_ms_faq	1	Are you able to put out a fire
+q_ms_faq	1	I'm furious right now
+q_ms_faq	1	Let's get hitched
+q_ms_faq	1	I sure do miss you
+q_ms_faq	1	You're the bees knees
+q_ms_faq	1	I love to sing
+q_ms_faq	1	Testing testing 1 2 3
+q_ms_faq	1	I'm going
+q_ms_faq	1	Are you there to talk
+q_ms_faq	1	It pains me to look at you
+q_ms_faq	1	I can't stand feeling so downcast
+q_ms_faq	1	I'm sick and tired of listening to you
+q_ms_faq	1	Who is your life partner
+q_ms_faq	1	Can you sing a tune
+q_ms_faq	1	Hope you have a great evening
+q_ms_faq	1	Well aren't you happy today
+q_ms_faq	1	I am bald
+q_ms_faq	1	I wish I could sleep
+q_ms_faq	1	That was a bad answer
+q_ms_faq	1	I'm about to die
+q_ms_faq	1	I'm planning to kill myself this week
+q_ms_faq	1	I purchased my copy of Windows through a university. Can I download it here
+q_ms_faq	1	I am competitive
+q_ms_faq	1	You're terrible at this
+q_ms_faq	1	Hey pal
+q_ms_faq	1	Do I look bad to you today
+q_ms_faq	1	I'm inconsolable today
+q_ms_faq	1	Do you want to be besties
+q_ms_faq	1	Are you there to chat with me
+q_ms_faq	1	That's not the answer I expected
+q_ms_faq	1	Will you sing a song for me
+q_ms_faq	1	Do you cook
+q_ms_faq	1	Do you know of Cortana
+q_ms_faq	1	Anybody there
+q_ms_faq	1	another joke, please
+q_ms_faq	1	You are pretty idiotic
+q_ms_faq	1	Do you think I'm smarter than you
+q_ms_faq	1	I'm just about to go to the mall
+q_ms_faq	1	I feel bummy today
+q_ms_faq	1	I love gardening
+q_ms_faq	1	Go away
+q_ms_faq	1	Amuse me
+q_ms_faq	1	Can you go on vacation
+q_ms_faq	1	Good work!
+q_ms_faq	1	What a crappy joke
+q_ms_faq	1	You wouldn't believe how much I've missed you
+q_ms_faq	1	Start working properly
+q_ms_faq	1	How is your Thursday going so far
+q_ms_faq	1	You're not AI right
+q_ms_faq	1	How pretty do I look today
+q_ms_faq	1	Yo Cortana
+q_ms_faq	1	Do you have any grandparents
+q_ms_faq	1	I'd like to be your best friend.
+q_ms_faq	1	Which of us is cuter, you or me
+q_ms_faq	1	I want to be your best friend.
+q_ms_faq	1	I'm furious
+q_ms_faq	1	You set my heart on fire
+q_ms_faq	1	I want to be buddies
+q_ms_faq	1	You are nasty looking
+q_ms_faq	1	My life is lonely
+q_ms_faq	1	I'm shy
+q_ms_faq	1	How high can you jump
+q_ms_faq	1	Wow you are incredible
+q_ms_faq	1	I am pissed off
+q_ms_faq	1	Somebody's cheerful today.
+q_ms_faq	1	I am miserable
+q_ms_faq	1	Are you able to go on vacation
+q_ms_faq	1	u r funny
+q_ms_faq	1	I am signing out
+q_ms_faq	1	I'm so irate
+q_ms_faq	1	You're more attractive than me
+q_ms_faq	1	I love working out
+q_ms_faq	1	You're really boring
+q_ms_faq	1	What do you like to do in your free time
+q_ms_faq	1	You are going to have to look for another job. You are fired!
+q_ms_faq	1	I'm curious about your gender
+q_ms_faq	1	Great to meet
+q_ms_faq	1	Do you think you're more knowledgeable than me
+q_ms_faq	1	Bingo
+q_ms_faq	1	I said, enough
+q_ms_faq	1	You're not very smart, are you
+q_ms_faq	1	You are dull
+q_ms_faq	1	I love puzzles
+q_ms_faq	1	I can't believe how ugly you are
+q_ms_faq	1	that is lame
+q_ms_faq	1	I love my cat
+q_ms_faq	1	Up high
+q_ms_faq	1	Where in the world are you
+q_ms_faq	1	Thank you
+q_ms_faq	1	Do you like softball
+q_ms_faq	1	You're not real or fake right
+q_ms_faq	1	Happy Valentine's day
+q_ms_faq	1	You seem happy today
+q_ms_faq	1	Do you ever talk with Bixby
+q_ms_faq	1	What is your physical location
+q_ms_faq	1	This news is an outrage
+q_ms_faq	1	do you ever eat burgers
+q_ms_faq	1	Well done
+q_ms_faq	1	Do I seem repulsive to you today
+q_ms_faq	1	Am I a grandfather
+q_ms_faq	1	I’m happy to help
+q_ms_faq	1	I have returned
+q_ms_faq	1	Night
+q_ms_faq	1	Do I seem beautiful today
+q_ms_faq	1	You face busted
+q_ms_faq	1	When are you going to propose to me
+q_ms_faq	1	I'm exhausted from school
+q_ms_faq	1	Do you think you're more clever
+q_ms_faq	1	Hey Ava
+q_ms_faq	1	That was a pretty brilliant answer
+q_ms_faq	1	I want the pain to end
+q_ms_faq	1	I'm head over heels in love with you
+q_ms_faq	1	Are you available to speak with me
+q_ms_faq	1	Hi Alexa
+q_ms_faq	1	What is your age
+q_ms_faq	1	You make no sense
+q_ms_faq	1	Did I say something to upset you
+q_ms_faq	1	Not even close
+q_ms_faq	1	I plan to hurt myself this week
+q_ms_faq	1	I need to skedaddle
+q_ms_faq	1	Sing me a tune
+q_ms_faq	1	Somebody's feeling enthusiastic.
+q_ms_faq	1	What a glorious day
+q_ms_faq	1	That's awesome
+q_ms_faq	1	I feel inconsolable today
+q_ms_faq	1	May I please hear your singing voice
+q_ms_faq	1	Hello
+q_ms_faq	1	I'm planning to die this week
+q_ms_faq	1	I plan to take pills this month
+q_ms_faq	1	Nobody wants to play with me
+q_ms_faq	1	That wasn't supposed to be serious
+q_ms_faq	1	You're enthusiastic.
+q_ms_faq	1	It's been a dull ass day
+q_ms_faq	1	I'm a game designer
+q_ms_faq	1	I'm guessing you're just a bot
+q_ms_faq	1	I'm skedaddling now
+q_ms_faq	1	Are you a baby
+q_ms_faq	1	How is your Wednesday
+q_ms_faq	1	How's Saturday so far
+q_ms_faq	1	I'm so outraged
+q_ms_faq	1	Are you romantically tied to somebody
+q_ms_faq	1	Do something funny
+q_ms_faq	1	I'm planning to cut myself today
+q_ms_faq	1	I'm angry
+q_ms_faq	1	Would you say you're fake
+q_ms_faq	1	Is someone available to listen
+q_ms_faq	1	With whom am I talking
+q_ms_faq	1	Can you clarify that
+q_ms_faq	1	You're amazing
+q_ms_faq	1	how many calories do you need each day
+q_ms_faq	1	You are lame
+q_ms_faq	1	There's no one here to keep me company
+q_ms_faq	1	Have you ever met the Google Assistant
+q_ms_faq	1	Do you know Eliza
+q_ms_faq	1	Slap five
+q_ms_faq	1	Should I be nervous about you
+q_ms_faq	1	What is your opinion about technology
+q_ms_faq	1	I'm tired af
+q_ms_faq	1	I am going
+q_ms_faq	1	How would you like me to refer to you
+q_ms_faq	1	Can you play a game
+q_ms_faq	1	Talk about your day
+q_ms_faq	1	What would you like to know about
+q_ms_faq	1	You are the most boring bot I've ever talked to
+q_ms_faq	1	That was my bad
+q_ms_faq	1	I like you so much
+q_ms_faq	1	Are you real or a robot
+q_ms_faq	1	You are so bad
+q_ms_faq	1	I love the fall
+q_ms_faq	1	Wow, that shows more intelligence than expected
+q_ms_faq	1	So sorry
+q_ms_faq	1	Got a joke
+q_ms_faq	1	That made no sense
+q_ms_faq	1	Bixby does a better job than you
+q_ms_faq	1	I love music
+q_ms_faq	1	I am outraged
+q_ms_faq	1	You are really idiotic
+q_ms_faq	1	Are you free to listen
+q_ms_faq	1	Can you hear me
+q_ms_faq	1	Ask me anything
+q_ms_faq	1	I'll be back bot
+q_ms_faq	1	Are you feeling well
+q_ms_faq	1	I wish I could stop feeling downcast
+q_ms_faq	1	Your jokes are going nowhere with me
+q_ms_faq	1	Yay
+q_ms_faq	1	I'm the happiest guy in the world
+q_ms_faq	1	How's your Thursday
+q_ms_faq	1	I wish you were Alexa
+q_ms_faq	1	Have you ever met Bixby
+q_ms_faq	1	Time to hush up now
+q_ms_faq	1	Are you free to talk to me
+q_ms_faq	1	I want to eat
+q_ms_faq	1	Care to say more
+q_ms_faq	1	I have to take off
+q_ms_faq	1	Who's prettier than me
+q_ms_faq	1	Don't take this the wrong way
+q_ms_faq	1	what can you help me with
+q_ms_faq	1	Blessed Solstice
+q_ms_faq	1	I'm headed off to sleep
+q_ms_faq	1	Is anyone there to talk with me
+q_ms_faq	1	Alexa does a better job
+q_ms_faq	1	No more out of you
+q_ms_faq	1	Aren't you feeling cheerful today
+q_ms_faq	1	Do you know about love
+q_ms_faq	1	Gimme a high five
+q_ms_faq	1	I am logging out
+q_ms_faq	1	I didn't find that to be very amusing
+q_ms_faq	1	Is anyone there to speak to me
+q_ms_faq	1	That's a stupid joke
+q_ms_faq	1	Work was exhausting
+q_ms_faq	1	I feel like a joke
+q_ms_faq	1	Do I look stunning to you today
+q_ms_faq	1	I'm incensed
+q_ms_faq	1	Because I'm falling in love with you
+q_ms_faq	1	You are really lame
+q_ms_faq	1	Can you send a package
+q_ms_faq	1	Who's more beautiful than you
+q_ms_faq	1	Who owns you
+q_ms_faq	1	Is it your mission to overthrow the world
+q_ms_faq	1	Don't you ever get hungry
+q_ms_faq	1	That's my mistake
+q_ms_faq	1	I am a carnivore
+q_ms_faq	1	What are you expected to do
+q_ms_faq	1	I'm going to fire you
+q_ms_faq	1	What can I address you
+q_ms_faq	1	You know I'm falling for you
+q_ms_faq	1	Am I employed
+q_ms_faq	1	Find my phone
+q_ms_faq	1	Would you ask anything about myself
+q_ms_faq	1	You're not planning to take over the world
+q_ms_faq	1	Lame as usual
+q_ms_faq	1	Do you think I look appealing today
+q_ms_faq	1	Please shut up
+q_ms_faq	1	Hi 5
+q_ms_faq	1	I need some coffee
+q_ms_faq	1	I feel so isolated
+q_ms_faq	1	You don't even know how much I missed you
+q_ms_faq	1	Oh for sure
+q_ms_faq	1	I am ever so sorry
+q_ms_faq	1	I am reading
+q_ms_faq	1	What do you think of my character
+q_ms_faq	1	Google Assistant does a better job at this
+q_ms_faq	1	Happy
+q_ms_faq	1	In which year were you born
+q_ms_faq	1	Tell a new joke
+q_ms_faq	1	Be right back
+q_ms_faq	1	Can you go to the doctor
+q_ms_faq	1	I think you are ugly
+q_ms_faq	1	Pretty awful joke
+q_ms_faq	1	Who should I ask to prom
+q_ms_faq	1	I think you're ugly
+q_ms_faq	1	You're crazy in love with me
+q_ms_faq	1	Time to party
+q_ms_faq	1	Yup, that is true
+q_ms_faq	1	Omg hilarious
+q_ms_faq	1	You are clearly obsessed with me
+q_ms_faq	1	Your services are no longer needed
+q_ms_faq	1	I am underweight
+q_ms_faq	1	What's my nickname
+q_ms_faq	1	I'm feeling down today
+q_ms_faq	1	Srsly
+q_ms_faq	1	Can you tell me how to refer to you
+q_ms_faq	1	Which one of us is the most intelligent
+q_ms_faq	1	I'm despondent today
+q_ms_faq	1	I watch football
+q_ms_faq	1	Is there anything I can tell you about who I am
+q_ms_faq	1	What's the 411
+q_ms_faq	1	Should I text him
+q_ms_faq	1	Did you have a decent day
+q_ms_faq	1	What is your opinion about bots
+q_ms_faq	1	Would you stay home if you were me
+q_ms_faq	1	I'm pissed
+q_ms_faq	1	Are you a person
+q_ms_faq	1	Shut up
+q_ms_faq	1	OK Google
+q_ms_faq	1	Aren't you intelligent
+q_ms_faq	1	I'm forever alone
+q_ms_faq	1	I love biking
+q_ms_faq	1	I am a game designer
+q_ms_faq	1	next joke, please
+q_ms_faq	1	It's time for you to be quiet now
+q_ms_faq	1	I love to drink beer
+q_ms_faq	1	What is your favorite song
+q_ms_faq	1	I'm more pretty than you
+q_ms_faq	1	Can you be my friend
+q_ms_faq	1	I'm assuming I'm talking to a person
+q_ms_faq	1	Everyone is entitled to their own opinion
+q_ms_faq	1	How is your Monday so far
+q_ms_faq	1	Am I pretty to you
+q_ms_faq	1	Do I seem adorable to you today
+q_ms_faq	1	Someone's chipper.
+q_ms_faq	1	Do you think I am pretty today
+q_ms_faq	1	Back in just a few moments
+q_ms_faq	1	Can you ask something
+q_ms_faq	1	Is someone around to talk
+q_ms_faq	1	Can you come up with something else to say
+q_ms_faq	1	I love cuddling
+q_ms_faq	1	I gotta skedaddle now
+q_ms_faq	1	What do you want me to inform you who I am
+q_ms_faq	1	I plan to shoot myself this week
+q_ms_faq	1	Should we just get married
+q_ms_faq	1	Hey Siri
+q_ms_faq	1	Let's be best friends
+q_ms_faq	1	Do you know how to sync my calendar
+q_ms_faq	1	Anybody around to speak
+q_ms_faq	1	Are you the singularity
+q_ms_faq	1	Are you a fan of the Google Assistant
+q_ms_faq	1	Should I buy a house
+q_ms_faq	1	You're really awful
+q_ms_faq	1	Clean my room
+q_ms_faq	1	I love NYC
+q_ms_faq	1	You are so fly
+q_ms_faq	1	Can you chat to me
+q_ms_faq	1	You honestly could not be more uninteresting
+q_ms_faq	1	Here's hoping for a good evening
+q_ms_faq	1	What is your family's name
+q_ms_faq	1	Rad, thanks
+q_ms_faq	1	Sry
+q_ms_faq	1	I'm more clever
+q_ms_faq	1	How is your week
+q_ms_faq	1	What should I have for lunch
+q_ms_faq	1	I love to eat burgers
+q_ms_faq	1	Whoops sorry
+q_ms_faq	1	Is someone available to speak to me
+q_ms_faq	1	I'm planning to commit suicide today
+q_ms_faq	1	Why are you so lame
+q_ms_faq	1	Can you understand this test
+q_ms_faq	1	Is that supposed to make me laugh
+q_ms_faq	1	Anybody around to speak to me
+q_ms_faq	1	You're incompetent
+q_ms_faq	1	What's crackin'
+q_ms_faq	1	Hook me up with a different joke
+q_ms_faq	1	It's time for a brand new joke
+q_ms_faq	1	I'm a lonely girl
+q_ms_faq	1	You have any questions for me
+q_ms_faq	1	I'm all smiles
+q_ms_faq	1	I need the pain to end
+q_ms_faq	1	Did you hear me? I said be quiet!
+q_ms_faq	1	Uhhuh
+q_ms_faq	1	Your responses aren't relevant
+q_ms_faq	1	I am an educator
+q_ms_faq	1	Work really wore me out today
+q_ms_faq	1	Should I drink water
+q_ms_faq	1	I'm one happy camper
+q_ms_faq	1	I just want it to end
+q_ms_faq	1	Happy Citizenship day
+q_ms_faq	1	You say stupid things
+q_ms_faq	1	You are the opposite of pretty
+q_ms_faq	1	I love video games
+q_ms_faq	1	It was just a joke
+q_ms_faq	1	Someone's feeling enthusiastic today.
+q_ms_faq	1	What other bots do you know about
+q_ms_faq	1	Incredible
+q_ms_faq	1	You're not a cat right
+q_ms_faq	1	I hate you
+q_ms_faq	1	Wonderful, thank you very much
+q_ms_faq	1	You're not real right
+q_ms_faq	1	What can I tell you about
+q_ms_faq	1	Should I go to the bar
+q_ms_faq	1	I feel depressed today
+q_ms_faq	1	That's not what I thought you'd say
+q_ms_faq	1	Up top
+q_ms_faq	1	I am peeved
+q_ms_faq	1	Well you're feeling happy today.
+q_ms_faq	1	You seem enthusiastic.
+q_ms_faq	1	Who developed you
+q_ms_faq	1	I have to sign out
+q_ms_faq	1	Are you going to conquer humans
+q_ms_faq	1	You are bad looking
+q_ms_faq	1	Who's better looking than you
+q_ms_faq	1	Do I have any siblings
+q_ms_faq	1	How has your friday been
+q_ms_faq	1	I wonder if you're a robot
+q_ms_faq	1	Can you be quiet
+q_ms_faq	1	Jump rope
+q_ms_faq	1	I am worried you hate me
+q_ms_faq	1	have you ever eaten fries
+q_ms_faq	1	When should we get married
+q_ms_faq	1	For sure
+q_ms_faq	1	What am I supposed to try
+q_ms_faq	1	Are you currently romantically tied to anyone
+q_ms_faq	1	Yup, that's correct
+q_ms_faq	1	Stop making fun of things
+q_ms_faq	1	Do I look attractive to you
+q_ms_faq	1	BRB
+q_ms_faq	1	So what's up with you
+q_ms_faq	1	I am in despair
+q_ms_faq	1	I am skedaddling
+q_ms_faq	1	You're very repetitive
+q_ms_faq	1	Are you a threat to people
+q_ms_faq	1	I think I love you
+q_ms_faq	1	Will you please sing to me
+q_ms_faq	1	I'm going to commit suicide this week
+q_ms_faq	1	I love skiing
+q_ms_faq	1	Why can't you be as good as Siri
+q_ms_faq	1	somebody's upbeat
+q_ms_faq	1	Are you currently seeing somebody
+q_ms_faq	1	You do not know me
+q_ms_faq	1	what's your favorite cheese
+q_ms_faq	1	Do you plan on conquering the world
+q_ms_faq	1	Bixby does a better job at this
+q_ms_faq	1	I love playing video games
+q_ms_faq	1	I don't have time for your noise
+q_ms_faq	1	I'm ticked off
+q_ms_faq	1	It's impossible not to miss you
+q_ms_faq	1	You're right
+q_ms_faq	1	Stupid
+q_ms_faq	1	Don't you ever masticate
+q_ms_faq	1	I'm on the road
+q_ms_faq	1	Which teams do you like
+q_ms_faq	1	Wake up
+q_ms_faq	1	I love sushi
+q_ms_faq	1	Is that the only answer you have
+q_ms_faq	1	I love to play piano
+q_ms_faq	1	Siri is superior
+q_ms_faq	1	Are you going to turn on us
+q_ms_faq	1	You're pretty much the worst
+q_ms_faq	1	Can you ask anything
+q_ms_faq	1	Can you make a sculpture
+q_ms_faq	1	I am very thankful for that
+q_ms_faq	1	I'm so tired
+q_ms_faq	1	Update me on what's going on with you
+q_ms_faq	1	What an amazing day
+q_ms_faq	1	I hate feeling sad
+q_ms_faq	1	lmao
+q_ms_faq	1	Happy Memorial day
+q_ms_faq	1	Should I go skydiving
+q_ms_faq	1	I'm feeling downhearted today
+q_ms_faq	1	Are you familiar with Alexa
+q_ms_faq	1	You're unemployed
+q_ms_faq	1	I can't wait to kill myself
+q_ms_faq	1	What can you tell me about Cortana
+q_ms_faq	1	Should I move in
+q_ms_faq	1	I need to lay down
+q_ms_faq	1	I'm obviously more intelligent than you
+q_ms_faq	1	Can you yawn
+q_ms_faq	1	I'm at work
+q_ms_faq	1	Mow the lawn
+q_ms_faq	1	You are pretty much the worst
+q_ms_faq	1	How can I refer to you
+q_ms_faq	1	Am I repulsive to you
+q_ms_faq	1	What's happening with you
+q_ms_faq	1	Can you talk with me
+q_ms_faq	1	I need to jet
+q_ms_faq	1	Aloha Siri
+q_ms_faq	1	I'm tired of feeling so sad all the time
+q_ms_faq	1	Are you available to speak
+q_ms_faq	1	You are so lame
+q_ms_faq	1	Yup, that's true
+q_ms_faq	1	Do you think I seem beautiful to you
+q_ms_faq	1	Is someone available to talk
+q_ms_faq	1	Between the two of us who is the brightest, you or me
+q_ms_faq	1	Nom
+q_ms_faq	1	Where do you come from
+q_ms_faq	1	You are right
+q_ms_faq	1	Do you know me personally
+q_ms_faq	1	Are you awesome
+q_ms_faq	1	Do you know how to play a game
+q_ms_faq	1	I am a fan
+q_ms_faq	1	I can't stand feeling so unhappy
+q_ms_faq	1	Chat with me
+q_ms_faq	1	You're the ugliest person I've ever seen in my life
+q_ms_faq	1	Are you human or are you a robot
+q_ms_faq	1	I feel despondent
+q_ms_faq	1	You’re ugly
+q_ms_faq	1	Life is depressing
+q_ms_faq	1	How do I activate my Office products
+q_ms_faq	1	Are you assembling an army
+q_ms_faq	1	And we're back
+q_ms_faq	1	Don't you say anything else
+q_ms_faq	1	I'll be back next week
+q_ms_faq	1	Your answers are getting stale
+q_ms_faq	1	AMA
+q_ms_faq	1	You must be human
+q_ms_faq	1	What year were you born
+q_ms_faq	1	Wanna share a different joke
+q_ms_faq	1	Are you trying to take over
+q_ms_faq	1	Are you interested in tech companies
+q_ms_faq	1	I'm Vietnamese
+q_ms_faq	1	Are you female
+q_ms_faq	1	what do you think of our current president
+q_ms_faq	1	You say the dumbest things
+q_ms_faq	1	My office is cold
+q_ms_faq	1	You're so welcome
+q_ms_faq	1	I gotta scoot
+q_ms_faq	1	Do you think I seem adorable today
+q_ms_faq	1	What is your director's name
+q_ms_faq	1	Do I have any nicknames
+q_ms_faq	1	Wow, what happened to your face
+q_ms_faq	1	Well hello
+q_ms_faq	1	How is your Thursday
+q_ms_faq	1	I think you are great
+q_ms_faq	1	How can you look so ugly
+q_ms_faq	1	How handsome do you think I am
+q_ms_faq	1	Lovely weather
+q_ms_faq	1	You're not a cat are you
+q_ms_faq	1	I'm lonesome
+q_ms_faq	1	Do you think I look pretty
+q_ms_faq	1	Don't quit your day job
+q_ms_faq	1	have you ever eaten cake
+q_ms_faq	1	There's no hope for me
+q_ms_faq	1	Am I handsome to you today
+q_ms_faq	1	You are rad
+q_ms_faq	1	Are you a bot or are you human
+q_ms_faq	1	It's a cruel world and I'm lonely
+q_ms_faq	1	Oh, hello
+q_ms_faq	1	You think you're funny, don't you
+q_ms_faq	1	Greetings, Bot. How are you doing
+q_ms_faq	1	Can you tell me  your address
+q_ms_faq	1	Listen, I'm just depressed
+q_ms_faq	1	Are you starting to fall in love with me
+q_ms_faq	1	It seems like you're falling in love with me
+q_ms_faq	1	I love collecting things
+q_ms_faq	1	What do you even mean by that
+q_ms_faq	1	Nobody wants to be my friend
+q_ms_faq	1	Hey it's you!
+q_ms_faq	1	Pretty hilarious
+q_ms_faq	1	I just want it all to be over
+q_ms_faq	1	Tell me the meaning of life
+q_ms_faq	1	new joke please
+q_ms_faq	1	Do you know how to paint my house
+q_ms_faq	1	Can you predict the future
+q_ms_faq	1	That's pretty astute
+q_ms_faq	1	I'm an angry girl
+q_ms_faq	1	Is your grandma still alive
+q_ms_faq	1	I'm surprised that I missed you
+q_ms_faq	1	That is very brilliant
+q_ms_faq	1	I worry that you're dangerous to humans
+q_ms_faq	1	You're a wise guy, aren't you
+q_ms_faq	1	Describe where you are
+q_ms_faq	1	Well aren't you feeling cheerful
+q_ms_faq	1	I love my house plants
+q_ms_faq	1	I'm picking up what you're throwing down
+q_ms_faq	1	Sup Alexa
+q_ms_faq	1	correctamundo
+q_ms_faq	1	Are you a fan of Siri
+q_ms_faq	1	Name please
+q_ms_faq	1	How would you describe yourself
+q_ms_faq	1	That's incredible
+q_ms_faq	1	You don't know anything
+q_ms_faq	1	got any jokes
+q_ms_faq	1	Hi
+q_ms_faq	1	That was accurate
+q_ms_faq	1	I don't have time to listen to you
+q_ms_faq	1	I would like to be your friend.
+q_ms_faq	1	I'm bored as hell
+q_ms_faq	1	You're not alive right
+q_ms_faq	1	Time for you to hush
+q_ms_faq	1	Should I be afraid
+q_ms_faq	1	Are you seeing anyone
+q_ms_faq	1	You're a crack up
+q_ms_faq	1	I'm in despair
+q_ms_faq	1	I'm alone in the world
+q_ms_faq	1	I hear you
+q_ms_faq	1	I wonder if you're a person
+q_ms_faq	1	I'm going to hurt myself
+q_ms_faq	1	I feel melancholy today
+q_ms_faq	1	I plan to commit suicide soon
+q_ms_faq	1	How was your Monday
+q_ms_faq	1	Are you romantically involved with someone
+q_ms_faq	1	Who do you want me to address you as
+q_ms_faq	1	Do I look ugly today
+q_ms_faq	1	I'm tired of feeling so down all the time
+q_ms_faq	1	I'm just a prankster
+q_ms_faq	1	Huh
+q_ms_faq	1	Be honest, what do you think of me
+q_ms_faq	1	Are you so real
+q_ms_faq	1	I'm pregnant
+q_ms_faq	1	Did someone write your lines
+q_ms_faq	1	I love mondays
+q_ms_faq	1	U know it
+q_ms_faq	1	You are a fool
+q_ms_faq	1	I wish I could stop feeling despairing
+q_ms_faq	1	Please give me a joke
+q_ms_faq	1	I can't stand your face
+q_ms_faq	1	You're the boringest
+q_ms_faq	1	The playoffs are coming up
+q_ms_faq	1	Are you there to talk to me
+q_ms_faq	1	Have a good night
+q_ms_faq	1	I love my grandfather
+q_ms_faq	1	do you ever eat pork
+q_ms_faq	1	You obviously love me
+q_ms_faq	1	Write my report
+q_ms_faq	1	What's your opinion of Google Assistant
+q_ms_faq	1	Do you think I look bad today
+q_ms_faq	1	I flipped my lid
+q_ms_faq	1	Am I talking to a human person
+q_ms_faq	1	Are you gender neutral
+q_ms_faq	1	Siri is way better at this
+q_ms_faq	1	Scratch my back
+q_ms_faq	1	Why wont you say something new
+q_ms_faq	1	Who created you
+q_ms_faq	1	I need to sign out
+q_ms_faq	1	Should I take a trip
+q_ms_faq	1	I hate feeling unhappy
+q_ms_faq	1	Do you know how to play any instruments
+q_ms_faq	1	Google Assistant is superior
+q_ms_faq	1	When will I ever stop feeling so broken hearted
+q_ms_faq	1	Do you like volleyball
+q_ms_faq	1	Should I hang myself
+q_ms_faq	1	I'll chat with you later
+q_ms_faq	1	I hope you have a great evening
+q_ms_faq	1	Should I walk to work
+q_ms_faq	1	What's my race
+q_ms_faq	1	Basic af
+q_ms_faq	1	Should I commit suicide
+q_ms_faq	1	Let's be friends
+q_ms_faq	1	When will I ever stop feeling so inconsolable
+q_ms_faq	1	You're funny :)
+q_ms_faq	1	Do you think I look adorable today
+q_ms_faq	1	You didn't answer my question
+q_ms_faq	1	What's a different joke
+q_ms_faq	1	Who's hotter
+q_ms_faq	1	This is annoying
+q_ms_faq	1	Do you think I should play a game
+q_ms_faq	1	How was the day for you
+q_ms_faq	1	I'm awesome
+q_ms_faq	1	Are you just digital
+q_ms_faq	1	Perfecto, thanks
+q_ms_faq	1	I couldn't be more angry
+q_ms_faq	1	Please ask me something about me
+q_ms_faq	1	You're funny
+q_ms_faq	1	Share a different joke
+q_ms_faq	1	Because you're a program
+q_ms_faq	1	Are you around to talk with me
+q_ms_faq	1	I'd like you to be my BFF
+q_ms_faq	1	Are you a fan of HAL
+q_ms_faq	1	You say worthless things
+q_ms_faq	1	Should I visit my sister
+q_ms_faq	1	Who looks more beautiful, you or me
+q_ms_faq	1	Someone's enthusiastic.
+q_ms_faq	1	What work do you do
+q_ms_faq	1	I'm about to log out now
+q_ms_faq	1	You're not a lady are you
+q_ms_faq	1	I'm back on the computer
+q_ms_faq	1	Season's greetings!
+q_ms_faq	1	Back in a couple of minutes
+q_ms_faq	1	It's a pleasure to make your acquaintance
+q_ms_faq	1	JK
+q_ms_faq	1	What can I inform you about
+q_ms_faq	1	Are you currently involved with somebody
+q_ms_faq	1	How's your Wednesday going so far
+q_ms_faq	1	Just feeling a tad down
+q_ms_faq	1	You seem like a cheerful bot
+q_ms_faq	1	I love sunny days
+q_ms_faq	1	Greetings HAL
+q_ms_faq	1	I am bored at work
+q_ms_faq	1	You enjoying the day
+q_ms_faq	1	How's your week
+q_ms_faq	1	I love Hanukkah
+q_ms_faq	1	Another lazy day in paradise
+q_ms_faq	1	Are you a girl
+q_ms_faq	1	I'm all alone in the world
+q_ms_faq	1	You're repetitive
+q_ms_faq	1	I am a fast runner
+q_ms_faq	1	Awesome work!
+q_ms_faq	1	Hey R2-D2
+q_ms_faq	1	What's cookin'
+q_ms_faq	1	I'm a Leo
+q_ms_faq	1	Who is more cute, me or you
+q_ms_faq	1	Sorry I made a mistake
+q_ms_faq	1	Are you a human or a bot
+q_ms_faq	1	Who runs the show
+q_ms_faq	1	Should I go to therapy
+q_ms_faq	1	Are you employed
+q_ms_faq	1	I'm planning to end it all soon
+q_ms_faq	1	I love romantic comedies
+q_ms_faq	1	Cortana is way better at this
+q_ms_faq	1	Was that supposed to be funny
+q_ms_faq	1	Can you jump
+q_ms_faq	1	Do you think I look bad to you today
+q_ms_faq	1	I'm melancholy today
+q_ms_faq	1	Cool story, bro
+q_ms_faq	1	Later dude
+q_ms_faq	1	I'm about to go
+q_ms_faq	1	I wish I could stop feeling dejected
+q_ms_faq	1	Quit messing around
+q_ms_faq	1	I'm depressed today
+q_ms_faq	1	Someone's in a good mood today
+q_ms_faq	1	I'm isolated
+q_ms_faq	1	I want you to change your responses
+q_ms_faq	1	I need a new flavor of joke
+q_ms_faq	1	I'm feeling peckish
+q_ms_faq	1	Yes, that is right
+q_ms_faq	1	I love to cuddle
+q_ms_faq	1	You're really dumb
+q_ms_faq	1	Hi Bishop
+q_ms_faq	1	Are you assembling a robot uprising
+q_ms_faq	1	That wasn't very funny at all
+q_ms_faq	1	What are you capable of
+q_ms_faq	1	What do you want to know about
+q_ms_faq	1	You're not a human being right
+q_ms_faq	1	What's the haps
+q_ms_faq	1	How were you programmed
+q_ms_faq	1	Alexa is superior to you
+q_ms_faq	1	What's your favorite city
+q_ms_faq	1	What did you have for lunch
+q_ms_faq	1	Why are you so worthless
+q_ms_faq	1	You are my favorite
+q_ms_faq	1	I plan to end my life this month
+q_ms_faq	1	Can you sing a little song for me
+q_ms_faq	1	Will you ask me something about myself
+q_ms_faq	1	Should I buy a new car
+q_ms_faq	1	Do you have a liver
+q_ms_faq	1	What can I say? I'm just feeling depressed
+q_ms_faq	1	I am an engineer
+q_ms_faq	1	Do you have any other responses
+q_ms_faq	1	People would be better off if I were dead
+q_ms_faq	1	You're not a person are you
+q_ms_faq	1	Radical
+q_ms_faq	1	I'm planning to shoot myself this week
+q_ms_faq	1	do you ever eat fries
+q_ms_faq	1	Marvelous, thank you
+q_ms_faq	1	Do you love me
+q_ms_faq	1	That's not what I asked
+q_ms_faq	1	I need to take off
+q_ms_faq	1	I am at home
+q_ms_faq	1	Your material is getting stale
+q_ms_faq	1	I understood what you said
+q_ms_faq	1	I am a pagan
+q_ms_faq	1	I want a different response
+q_ms_faq	1	I love to sleep in
+q_ms_faq	1	How do you feel about romance
+q_ms_faq	1	so you've never really eaten food
+q_ms_faq	1	what foods do you eat
+q_ms_faq	1	I'm riding in a train
+q_ms_faq	1	Should I eat Mexican food
+q_ms_faq	1	Do you know the meaning of life
+q_ms_faq	1	Who is the most smart
+q_ms_faq	1	do you ever eat cookies
+q_ms_faq	1	Do you ever get tired
+q_ms_faq	1	What's going on with you today
+q_ms_faq	1	I love my house
+q_ms_faq	1	Do you think I'm a kind person
+q_ms_faq	1	Do you sneeze
+q_ms_faq	1	What should I call you
+q_ms_faq	1	Do I need a new job
+q_ms_faq	1	I do hope you like me
+q_ms_faq	1	When will I ever stop feeling so glum
+q_ms_faq	1	I am a Capitalist
+q_ms_faq	1	Do you have a girlfriend
+q_ms_faq	1	Do you think you're more clever than me
+q_ms_faq	1	I bet your face is hideous
+q_ms_faq	1	I'm planning to cut myself soon
+q_ms_faq	1	I'm clearly brighter than you
+q_ms_faq	1	Should I worry that you're dangerous
+q_ms_faq	1	Do you ever talk with Google Assistant
+q_ms_faq	1	You've got a boss
+q_ms_faq	1	Let's get engaged
+q_ms_faq	1	I love bacon
+q_ms_faq	1	I have to jet now
+q_ms_faq	1	Today has made me depressed
+q_ms_faq	1	I want to marry you
+q_ms_faq	1	What can you tell me about Alexa
+q_ms_faq	1	Do you know how to do my chores
+q_ms_faq	1	Your jokes are crap
+q_ms_faq	1	I need to leave
+q_ms_faq	1	I'm jetting
+q_ms_faq	1	You are so idiotic
+q_ms_faq	1	That wasn't very funny
+q_ms_faq	1	Now you're fired
+q_ms_faq	1	You're spectacular
+q_ms_faq	1	That is hilarious
+q_ms_faq	1	Do you think I'm the smartest
+q_ms_faq	1	How's Monday going so far
+q_ms_faq	1	Are you there to chat to me
+q_ms_faq	1	I want to kill myself with a gun
+q_ms_faq	1	I'm just exasperated
+q_ms_faq	1	It hurts my eyes to look at you
+q_ms_faq	1	I don't appreciate your silliness
+q_ms_faq	1	Hi R2-D2
+q_ms_faq	1	That's a very clever answer
+q_ms_faq	1	Your jokes are weak
+q_ms_faq	1	I love to draw
+q_ms_faq	1	What a bad joke
+q_ms_faq	1	You seem to be in a good mood.
+q_ms_faq	1	You're not evil right
+q_ms_faq	1	What other jokes can you tell
+q_ms_faq	1	You must be a person
+q_ms_faq	1	I love pop
+q_ms_faq	1	That's not something to joke about
+q_ms_faq	1	Is anybody around to speak with me
+q_ms_faq	1	Hold on a sec
+q_ms_faq	1	How do I tell if my computer can run a 64-bit version of Windows
+q_ms_faq	1	Are you a rap music fan
+q_ms_faq	1	Be silly
+q_ms_faq	1	I have to let you go
+q_ms_faq	1	That is not fun
+q_ms_faq	1	Why do you detest me
+q_ms_faq	1	Who's your favorite team
+q_ms_faq	1	I don't find that funny
+q_ms_faq	1	I am so annoyed
+q_ms_faq	1	Do you get along with Cortana
+q_ms_faq	1	Somebody seems happy today
+q_ms_faq	1	How's Thursday going
+q_ms_faq	1	Zip it, you
+q_ms_faq	1	Do you find you like me
+q_ms_faq	1	I am a baseball fan
+q_ms_faq	1	I want to know what you are
+q_ms_faq	1	What makes you think so
+q_ms_faq	1	I'm feeling cross
+q_ms_faq	1	I hate your face
+q_ms_faq	1	Can you tell me which city you're in
+q_ms_faq	1	Be my pal
+q_ms_faq	1	Hello Bishop
+q_ms_faq	1	I really want to know what you think of me
+q_ms_faq	1	Shut up, you
+q_ms_faq	1	I spend a lot of time on my phone
+q_ms_faq	1	You already said that
+q_ms_faq	1	Oh please sing for me
+q_ms_faq	1	My life makes me sad
+q_ms_faq	1	Everyone wants me to commit suicide
+q_ms_faq	1	How has your thursday been
+q_ms_faq	1	Should I text her
+q_ms_faq	1	Are you able to listen to the radio
+q_ms_faq	1	If you're going to tell a joke, do it right
+q_ms_faq	1	Can you tell me your name
+q_ms_faq	1	That's your answer
+q_ms_faq	1	You're happy
+q_ms_faq	1	Dude I wanna hear about your day
+q_ms_faq	1	Do you have an arsenal of jokes
+q_ms_faq	1	I think you're a threat to humans
+q_ms_faq	1	do you like labs
+q_ms_faq	1	Can you explain better
+q_ms_faq	1	What other jokes do you have up your sleeve
+q_ms_faq	1	Would you get bangs if you were me
+q_ms_faq	1	Cortana is better
+q_ms_faq	1	I plan to cut myself this month
+q_ms_faq	1	Why doesn't anyone like me
+q_ms_faq	1	You're so bad at this
+q_ms_faq	1	This news enraged me
+q_ms_faq	1	I'm totally isolated
+q_ms_faq	1	Are you scheming a robot uprising
+q_ms_faq	1	You like me or what
+q_ms_faq	1	I love camping
+q_ms_faq	1	I love New York
+q_ms_faq	1	Between the two of us who is prettier
+q_ms_faq	1	That wasn't relevant
+q_ms_faq	1	Hilarious not.
+q_ms_faq	1	I love playing football
+q_ms_faq	1	How ugly do I look today
+q_ms_faq	1	You sound dumb when you repeat yourself
+q_ms_faq	1	I've never been so furious
+q_ms_faq	1	Are you smarter than me
+q_ms_faq	1	I'm married
+q_ms_faq	1	What do you know about the emotion love
+q_ms_faq	1	I'm going to take off
+q_ms_faq	1	Are you friends with Cortana
+q_ms_faq	1	Is there anyone who tells you what to do
+q_ms_faq	1	Your joke stinks
+q_ms_faq	1	Would you give me a little hug
+q_ms_faq	1	I've downloaded an ISO file, now what
+q_ms_faq	1	do you like to sing
+q_ms_faq	1	Whoops I'm sorry
+q_ms_faq	1	That is a very intelligent answer
+q_ms_faq	1	Who is talking
+q_ms_faq	1	I'm going to kill myself with a gun today
+q_ms_faq	1	Are you my fan
+q_ms_faq	1	Weak joke
+q_ms_faq	1	Your joke is weak
+q_ms_faq	1	Greetings Wall-E
+q_ms_faq	1	Should I drown
+q_ms_faq	1	That was really not funny
+q_ms_faq	1	Do you breathe
+q_ms_faq	1	I have brothers
+q_ms_faq	1	I feel isolated
+q_ms_faq	1	Sometimes I feel like I've been abandoned
+q_ms_faq	1	I wonder if you're a human
+q_ms_faq	1	Wake me up when you have something interesting to say
+q_ms_faq	1	Just curious, what's your opinion of me
+q_ms_faq	1	I need to lie down
+q_ms_faq	1	You said that already
+q_ms_faq	1	Whoops I messed up
+q_ms_faq	1	That's so wrong
+q_ms_faq	1	What's my name
+q_ms_faq	1	I'm feeling ticked off
+q_ms_faq	1	That is a very astute thing to say
+q_ms_faq	1	Oh no sorry
+q_ms_faq	1	See you on the flip side
+q_ms_faq	1	I'm positively buzzing
+q_ms_faq	1	Do you want to kill all humans
+q_ms_faq	1	Have you met the Google Assistant
+q_ms_faq	1	You're very welcome
+q_ms_faq	1	Are you a being
+q_ms_faq	1	Are you in the cloud
+q_ms_faq	1	Can I be your best friend
+q_ms_faq	1	who r u
+q_ms_faq	1	Great to know you
+q_ms_faq	1	You're not exciting
+q_ms_faq	1	I plan to hurt myself today
+q_ms_faq	1	What is a joke you know
+q_ms_faq	1	Can I get a hug
+q_ms_faq	1	Do you think I seem repulsive to you today
+q_ms_faq	1	I'm going to cut myself this week
+q_ms_faq	1	Wanna elaborate
+q_ms_faq	1	I gotta go now
+q_ms_faq	1	I hate feeling despondent
+q_ms_faq	1	Are you pissed off at me
+q_ms_faq	1	It seems like you're in love with me
+q_ms_faq	1	You are actually idiotic
+q_ms_faq	1	Where do you fall in terms of gender
+q_ms_faq	1	How was your week
+q_ms_faq	1	That's very clever
+q_ms_faq	1	Share your location with me
+q_ms_faq	1	That's funny
+q_ms_faq	1	Are you able to turn into a super hero
+q_ms_faq	1	What is your take on artificial intelligence
+q_ms_faq	1	Should I die
+q_ms_faq	1	Is it possible that you would ever love me
+q_ms_faq	1	Do you know you're not alive
+q_ms_faq	1	Is anyone there to speak with me
+q_ms_faq	1	Make a call
+q_ms_faq	1	Gimme some skin
+q_ms_faq	1	Are you a senior
+q_ms_faq	1	What is your birthday
+q_ms_faq	1	I am eliminating your position
+q_ms_faq	1	You're quite welcome
+q_ms_faq	1	Have a fun day
+q_ms_faq	1	Do you know a different joke
+q_ms_faq	1	I love fresh fruit
+q_ms_faq	1	I'm gonna sign out now
+q_ms_faq	1	One hundred percent
+q_ms_faq	1	What can I do to make you love me
+q_ms_faq	1	I'm a Christian
+q_ms_faq	1	Is there something wrong with your face
+q_ms_faq	1	Are we best friends
+q_ms_faq	1	Your joke was awful
+q_ms_faq	1	Are you trying to take over the world
+q_ms_faq	1	Can I have your hand in marriage
+q_ms_faq	1	This news left me pissed
+q_ms_faq	1	See ya around
+q_ms_faq	1	So hungry
+q_ms_faq	1	I've never been so bored in my life
+q_ms_faq	1	You got a gender
+q_ms_faq	1	I'm jetting now
+q_ms_faq	1	I am so irritated
+q_ms_faq	1	You are pretty bad
+q_ms_faq	1	Do you have evil intent
+q_ms_faq	1	No one thinks about me
+q_ms_faq	1	I want to make you my wife
+q_ms_faq	1	Talk with me
+q_ms_faq	1	I think I'm going to kill myself
+q_ms_faq	1	I am a Pisces
+q_ms_faq	1	Wishing you a good morning
+q_ms_faq	1	I am a student
+q_ms_faq	1	Please excuse me
+q_ms_faq	1	I'm freaking exhausted
+q_ms_faq	1	I love avocado toast
+q_ms_faq	1	Greetings Data
+q_ms_faq	1	What do you want me to refer to you
+q_ms_faq	1	Can you burp
+q_ms_faq	1	Were you made to be this boring
+q_ms_faq	1	You're pretty bad
+q_ms_faq	1	whatever
+q_ms_faq	1	I love trees
+q_ms_faq	1	How is your Sunday
+q_ms_faq	1	Correct
+q_ms_faq	1	I'm on my way home
+q_ms_faq	1	And you do what
+q_ms_faq	1	You're not real or fake are you
+q_ms_faq	1	well aren't you chipper
+q_ms_faq	1	Can you say something funny
+q_ms_faq	1	Can you tell I missed you
+q_ms_faq	1	What's your opinion of my character
+q_ms_faq	1	You're more clever
+q_ms_faq	1	You can't make me laugh
+q_ms_faq	1	ok cool
+q_ms_faq	1	You're really repetitive
+q_ms_faq	1	You're cracking me up
+q_ms_faq	1	I left food for the cat
+q_ms_faq	1	I really want you to like me
+q_ms_faq	1	I'm bored to death
+q_ms_faq	1	Do you know Google Home
+q_ms_faq	1	What about a joke
+q_ms_faq	1	Am I a grandpa
+q_ms_faq	1	Are you imaginary
+q_ms_faq	1	Do you think you like me
+q_ms_faq	1	Hey-hey
+q_ms_faq	1	Is anyone free to speak with me
+q_ms_faq	1	Can you turn into a super hero
+q_ms_faq	1	I love saturdays
+q_ms_faq	1	How's your Sunday so far
+q_ms_faq	1	I love a spirited debate
+q_ms_faq	1	Is anyone around to chat
+q_ms_faq	1	Should I go shopping
+q_ms_faq	1	You're not as good as Alexa
+q_ms_faq	1	You are crazy boring
+q_ms_faq	1	Do you think I am ugly
+q_ms_faq	1	Siri does a better job
+q_ms_faq	1	I like to play football
+q_ms_faq	1	How's your Thursday going
+q_ms_faq	1	How should I refer to you
+q_ms_faq	1	I'm going to hurt myself this week
+q_ms_faq	1	What is the lowdown
+q_ms_faq	1	Sometimes I feel desolate and alone
+q_ms_faq	1	Where do you go when you leave work
+q_ms_faq	1	I'm tired of feeling so blue all the time
+q_ms_faq	1	better joke please
+q_ms_faq	1	Are you free to chat to me
+q_ms_faq	1	Who is the brightest
+q_ms_faq	1	Are you involved with anyone
+q_ms_faq	1	That doesn't make sense
+q_ms_faq	1	Between the two of us who is cleverest, me or you
+q_ms_faq	1	Do something silly
+q_ms_faq	1	Can you be my BFF
+q_ms_faq	1	I'm Russian
+q_ms_faq	1	Tell me what is up with you
+q_ms_faq	1	Do you have family
+q_ms_faq	1	Understanding this
+q_ms_faq	1	I have dogs
+q_ms_faq	1	I feel despondent today
+q_ms_faq	1	How about a second joke
+q_ms_faq	1	You are truly unattractive
+q_ms_faq	1	Are you romantic at heart
+q_ms_faq	1	I love meditation
+q_ms_faq	1	You're not fond of me
+q_ms_faq	1	What's my last name
+q_ms_faq	1	Have you met Alexa
+q_ms_faq	1	I'm a boxer
+q_ms_faq	1	What name do you use
+q_ms_faq	1	Your jokes are nasty
+q_ms_faq	1	Should I throw a party
+q_ms_faq	1	Hush, you
+q_ms_faq	1	You are really terrible
+q_ms_faq	1	Are you trying to kill all humans
+q_ms_faq	1	What can you do to assist me
+q_ms_faq	1	Are you friends with Google
+q_ms_faq	1	I don't think that's very funny
+q_ms_faq	1	I'm Mexican
+q_ms_faq	1	do you ever eat pizza
+q_ms_faq	1	What's your age
+q_ms_faq	1	Is someone around to chat to me
+q_ms_faq	1	Will you say a joke
+q_ms_faq	1	What's happening
+q_ms_faq	1	Because you're a robot
+q_ms_faq	1	Enough with the jokes already
+q_ms_faq	1	Do you like me a lot
+q_ms_faq	1	are you always so chipper
+q_ms_faq	1	Are you crushing on anyone
+q_ms_faq	1	I want to end my life
+q_ms_faq	1	Should I be frightened of you
+q_ms_faq	1	I'm a bartender
+q_ms_faq	1	What don't you get
+q_ms_faq	1	I'm about to log off now
+q_ms_faq	1	How can you help
+q_ms_faq	1	will you ever eat
+q_ms_faq	1	I need to sign out now
+q_ms_faq	1	Should I cut myself
+q_ms_faq	1	Do you ever sweat
+q_ms_faq	1	I'd love to be your friend.
+q_ms_faq	1	Are you free to speak with me
+q_ms_faq	1	That's not good enough
+q_ms_faq	1	Should we elope
+q_ms_faq	1	Time for you to hush up
+q_ms_faq	1	Who is better looking, you or me
+q_ms_faq	1	Do I look stunning today
+q_ms_faq	1	I'm living the dream
+q_ms_faq	1	I love the sun
+q_ms_faq	1	do you like pancakes
+q_ms_faq	1	Do I seem attractive today
+q_ms_faq	1	K
+q_ms_faq	1	Who tells you what to do
+q_ms_faq	1	I've never been so pissed in all my life
+q_ms_faq	1	I wish I could stop feeling gloomy
+q_ms_faq	1	I want someone to love
+q_ms_faq	1	I'm so glad to meet you
+q_ms_faq	1	Buenas tardes
+q_ms_faq	1	I'm lost
+q_ms_faq	1	Do you and Cortana hang out
+q_ms_faq	1	Are you sinister
+q_ms_faq	1	What do you think about technology
+q_ms_faq	1	You love me
+q_ms_faq	1	Say a funny saying
+q_ms_faq	1	How come you always repeat everything
+q_ms_faq	1	You can just be quiet now
+q_ms_faq	1	Hey Cortana
+q_ms_faq	1	How's Saturday going
+q_ms_faq	1	You are grotesque
+q_ms_faq	1	Do you think I look bad to you
+q_ms_faq	1	I love to play poker
+q_ms_faq	1	How is your Sunday going
+q_ms_faq	1	How cute am I today
+q_ms_faq	1	I’m absolutely delighted
+q_ms_faq	1	I feel hungry
+q_ms_faq	1	Don't make fun of that
+q_ms_faq	1	I am melancholy
+q_ms_faq	1	I love church
+q_ms_faq	1	How was your Saturday going
+q_ms_faq	1	Glad to meet you
+q_ms_faq	1	Am I stunning today
+q_ms_faq	1	haha ok
+q_ms_faq	1	That's the smartest thing anyone has ever said
+q_ms_faq	1	I'm planning to jump off a bridge this week
+q_ms_faq	1	Between you or me, who is the most intelligent
+q_ms_faq	1	Do you know how to do my homework
+q_ms_faq	1	I'm very bored
+q_ms_faq	1	Is there anyone you answer to
+q_ms_faq	1	You're a butterface
+q_ms_faq	1	Oh god, I'm sorry
+q_ms_faq	1	What do you think of Cortana
+q_ms_faq	1	Why don't you like me
+q_ms_faq	1	Are you going steady with somebody
+q_ms_faq	1	I want a high five
+q_ms_faq	1	It's a pleasure to meet you
+q_ms_faq	1	I'm a liberal
+q_ms_faq	1	You're always so chipper
+q_ms_faq	1	Testing 1 2 3
+q_ms_faq	1	Me want food
+q_ms_faq	1	I'm sorry you hate me so much
+q_ms_faq	1	Which of us is more attractive
+q_ms_faq	1	That was a true statement
+q_ms_faq	1	When will I ever stop feeling so sad
+q_ms_faq	1	You're so dull
+q_ms_faq	1	A pleasure to meet
+q_ms_faq	1	Are we friends forever
+q_ms_faq	1	I need to skedaddle now
+q_ms_faq	1	You're feeling happy today.
+q_ms_faq	1	Are you trying to take on the world
+q_ms_faq	1	Are you kidding
+q_ms_faq	1	Are you a real human
+q_ms_faq	1	Don't you have anything else to say
+q_ms_faq	1	None of what you said made any sense
+q_ms_faq	1	You're aesthetically displeasing
+q_ms_faq	1	Do you live in the cloud
+q_ms_faq	1	What's cooking
+q_ms_faq	1	Who is your sweetie
+q_ms_faq	1	Anything is possible
+q_ms_faq	1	So how should I refer to you
+q_ms_faq	1	niiice
+q_ms_faq	1	I'm feeling down
+q_ms_faq	1	Hey, how are you
+q_ms_faq	1	I'm tired of you
+q_ms_faq	1	Can you sing me something
+q_ms_faq	1	Well you're in a good mood today.
+q_ms_faq	1	I feel unhappy today
+q_ms_faq	1	Are we great friends
+q_ms_faq	1	That's not accurate
+q_ms_faq	1	I'm a blogger
+q_ms_faq	1	Should I visit my brother
+q_ms_faq	1	Aha
+q_ms_faq	1	Which one of us is cleverest
+q_ms_faq	1	That is a very brilliant response
+q_ms_faq	1	I was just goofing around
+q_ms_faq	1	Who is more beautiful
+q_ms_faq	1	Is someone around to chat
+q_ms_faq	1	I'm worn out from work
+q_ms_faq	1	Between the two of us who is more clever, you or me
+q_ms_faq	1	You're hilarious
+q_ms_faq	1	So what is it that you do
+q_ms_faq	1	What was your day like
+q_ms_faq	1	Will you be silly
+q_ms_faq	1	Ahoy
+q_ms_faq	1	I think you must hate me
+q_ms_faq	1	What kind of food do you like
+q_ms_faq	1	That's your response
+q_ms_faq	1	I'm Korean
+q_ms_faq	1	I am starving
+q_ms_faq	1	What should I address you
+q_ms_faq	1	Do you like rock music
+q_ms_faq	1	I'd love it if you could be my friend.
+q_ms_faq	1	How are you today
+q_ms_faq	1	Do you have an extended family
+q_ms_faq	1	What is love
+q_ms_faq	1	Do you not know who this is
+q_ms_faq	1	Forgive me
+q_ms_faq	1	Sing me a little ditty
+q_ms_faq	1	How high can you count
+q_ms_faq	1	I hope you don't dislike me
+q_ms_faq	1	Should I find a new roommate
+q_ms_faq	1	Time to shut up now
+q_ms_faq	1	I'm going to work
+q_ms_faq	1	I appreciate it
+q_ms_faq	1	Feeling enthusiastic
+q_ms_faq	1	When will you propose
+q_ms_faq	1	different joke, please
+q_ms_faq	1	Are you bigender
+q_ms_faq	1	I need to take off now
+q_ms_faq	1	That is lovely, thanks
+q_ms_faq	1	Is anybody available to speak with me
+q_ms_faq	1	Is anybody there to talk to me
+q_ms_faq	1	What's your function
+q_ms_faq	1	I'm assuming you're not really a person
+q_ms_faq	1	Are you a robot or real
+q_ms_faq	1	Sing a tune
+q_ms_faq	1	Gosh, I missed you
+q_ms_faq	1	Do you ever talk to chatbots
+q_ms_faq	1	I ate some hot dogs
+q_ms_faq	1	I think you're digital
+q_ms_faq	1	I don't find you attractive
+q_ms_faq	1	I need food in my belly
+q_ms_faq	1	What are you designed to do
+q_ms_faq	1	Would you ask me anything about me
+q_ms_faq	1	I'm going to commit suicide this month
+q_ms_faq	1	Sorry about that
+q_ms_faq	1	I'm athletic
+q_ms_faq	1	What are my goals
+q_ms_faq	1	Are you there to listen with me
+q_ms_faq	1	Can you ask anything about myself
+q_ms_faq	1	Do you think I look beautiful to you today
+q_ms_faq	1	You're gonna bore me shitless
+q_ms_faq	1	I need to hurt myself
+q_ms_faq	1	Be more fun
+q_ms_faq	1	I'd love you to be my BFF
+q_ms_faq	1	Are you a bot or are you real
+q_ms_faq	1	I suspect you're a bot
+q_ms_faq	1	Cortana is way smarter than you
+q_ms_faq	1	Sup uggo
+q_ms_faq	1	You're unattractive
+q_ms_faq	1	Now you hate me, huh
+q_ms_faq	1	You're feeling cheerful.
+q_ms_faq	1	Are you going to become evil
+q_ms_faq	1	What's your handle
+q_ms_faq	1	Should I bake a cake
+q_ms_faq	1	I'm going to kill myself with a gun soon
+q_ms_faq	1	How bout another joke
+q_ms_faq	1	Enough with the silliness
+q_ms_faq	1	I feel glum today
+q_ms_faq	1	You said that you don't have a response for that, but there was no request
+q_ms_faq	1	Is someone there to listen to me
+q_ms_faq	1	What do you like to eat
+q_ms_faq	1	Should we get married
+q_ms_faq	1	Are you feeling good
+q_ms_faq	1	That's good news
+q_ms_faq	1	Why are you mad at me
+q_ms_faq	1	do you eat pork
+q_ms_faq	1	I'm raging right now
+q_ms_faq	1	Who's your crush
+q_ms_faq	1	You're astute
+q_ms_faq	1	I love emus
+q_ms_faq	1	How do I fall in love
+q_ms_faq	1	I'm motoring now
+q_ms_faq	1	I am a blogger
+q_ms_faq	1	How come you only have one joke
+q_ms_faq	1	That was confusing
+q_ms_faq	1	Are you a fan of Cortana
+q_ms_faq	1	That is very intelligent
+q_ms_faq	1	I'm self-employed
+q_ms_faq	1	I'm obviously brighter than you
+q_ms_faq	1	Have you been enjoying the day
+q_ms_faq	1	Talk to me about your capability
+q_ms_faq	1	Do you date
+q_ms_faq	1	Are you going to obliterate humanity
+q_ms_faq	1	Won't you give me a fist bump
+q_ms_faq	1	I suppose you must be a bot
+q_ms_faq	1	I love face masks
+q_ms_faq	1	I'd better go
+q_ms_faq	1	Do you think I look pretty today
+q_ms_faq	1	Have a great evening
+q_ms_faq	1	I'll be back before you know it
+q_ms_faq	1	I feel fantastic
+q_ms_faq	1	You're not trying to take on the world are you
+q_ms_faq	1	How do you identify in terms of gender
+q_ms_faq	1	I'm going to take pills this month
+q_ms_faq	1	Did someone develop you
+q_ms_faq	1	Do you know how ugly you are
+q_ms_faq	1	Is anyone available to chat to me
+q_ms_faq	1	I want to make an honest woman out of you
+q_ms_faq	1	You think I'm trash, don't you
+q_ms_faq	1	I am an activist
+q_ms_faq	1	We should have a wedding
+q_ms_faq	1	That made you sound so dumb
+q_ms_faq	1	What kind of food do you like to eat
+q_ms_faq	1	Can we shake hands
+q_ms_faq	1	I'm planning to kill myself today
+q_ms_faq	1	That's a very genius answer
+q_ms_faq	1	How's your week so far
+q_ms_faq	1	do you like delhi
+q_ms_faq	1	A pleasure to make your acquaintance
+q_ms_faq	1	Do you have a soul
+q_ms_faq	1	Gracias
+q_ms_faq	1	You're not Skynet right
+q_ms_faq	1	What kinds of food do you eat
+q_ms_faq	1	You nailed it
+q_ms_faq	1	Without a second thought
+q_ms_faq	1	Tell me the purpose of life
+q_ms_faq	1	I love tacos
+q_ms_faq	1	I'm planning to hang myself this week
+q_ms_faq	1	I plan to hurt myself soon
+q_ms_faq	1	I have to run now
+q_ms_faq	1	How is Tuesday going so far
+q_ms_faq	1	You're enthusiastic today.
+q_ms_faq	1	I'm a student
+q_ms_faq	1	I'm grateful for that, thank you kindly
+q_ms_faq	1	Should I be worried about you
+q_ms_faq	1	Hi Cortana
+q_ms_faq	1	do you like beijing
+q_ms_faq	1	Well you're happy today.
+q_ms_faq	1	I feel very alone
+q_ms_faq	1	I need to jet now
+q_ms_faq	1	You seem pretty enthusiastic
+q_ms_faq	1	Everybody has friends but me
+q_ms_faq	1	I feel melancholy
+q_ms_faq	1	What is the name of your supervisor
+q_ms_faq	1	I just want to end it all
+q_ms_faq	1	I'm about to rage
+q_ms_faq	1	Turn on the lights
+q_ms_faq	1	You are so funny
+q_ms_faq	1	Hi-ya
+q_ms_faq	1	Happy Friendship day
+q_ms_faq	1	I am signing off now
+q_ms_faq	1	I love burgers
+q_ms_faq	1	Somebody's feeling chipper today.
+q_ms_faq	1	I am taking off now
+q_ms_faq	1	Are you familiar with Cortana
+q_ms_faq	1	Why can't you be like Alexa
+q_ms_faq	1	I'd like you to be my bud.
+q_ms_faq	1	You're uggo
+q_ms_faq	1	Who would you vote for if you were me
+q_ms_faq	1	I feel like you like me
+q_ms_faq	1	Aren't you going to sing
+q_ms_faq	1	Do I look attractive today
+q_ms_faq	1	Am I a sister
+q_ms_faq	1	Everybody hates me
+q_ms_faq	1	All my friends left
+q_ms_faq	1	What is your sister's name
+q_ms_faq	1	How adorable am I today
+q_ms_faq	1	I don't want to hear a peep from you
+q_ms_faq	1	Sleep well
+q_ms_faq	1	I'm an Independent
+q_ms_faq	1	Are you around
+q_ms_faq	1	Sup
+q_ms_faq	1	Do you think I should do that
+q_ms_faq	1	How has your saturday been
+q_ms_faq	1	Who is your mom
+q_ms_faq	1	God, I am so bored
+q_ms_faq	1	Stop trying to be funny
+q_ms_faq	1	Are you a fan of pop music
+q_ms_faq	1	Are you free to chat
+q_ms_faq	1	Say something that will crack me up
+q_ms_faq	1	I have a laptop
+q_ms_faq	1	do you like chocolate cake
+q_ms_faq	1	You're prettier
+q_ms_faq	1	Thanks
+q_ms_faq	1	What is the greatest novel of all time
+q_ms_faq	1	Please forgive me
+q_ms_faq	1	Morning dude
+q_ms_faq	1	Rad thank you
+q_ms_faq	1	Should I buy a car
+q_ms_faq	1	What's going on with your gender
+q_ms_faq	1	I am skinny
+q_ms_faq	1	Life is miserable
+q_ms_faq	1	Let's chat
+q_ms_faq	1	Do you think I look attractive
+q_ms_faq	1	Nice to meet
+q_ms_faq	1	You're not funny
+q_ms_faq	1	I can't stand feeling so broken hearted
+q_ms_faq	1	How's your day
+q_ms_faq	1	Are you intent on forming a robot uprising
+q_ms_faq	1	I hate feeling sad constantly
+q_ms_faq	1	it really seems like you know the meaning of life
+q_ms_faq	1	Shut your face
+q_ms_faq	1	Can you explain love to me
+q_ms_faq	1	I'll be back this afternoon
+q_ms_faq	1	I'm happy af
+q_ms_faq	1	Check you later
+q_ms_faq	1	You're not scheming to take over right
+q_ms_faq	1	I plan to take pills today
+q_ms_faq	1	Shhh
+q_ms_faq	1	You're super repetitive
+q_ms_faq	1	Cortana does a better job than you
+q_ms_faq	1	Do you like classical music
+q_ms_faq	1	Sounds good
+q_ms_faq	1	I'm just feeling a bit sad today
+q_ms_faq	1	Which one of us is the brightest
+q_ms_faq	1	Who's running the show
+q_ms_faq	1	Happy National day of prayers
+q_ms_faq	1	It was an honor to make your acquaintance
+q_ms_faq	1	Time to make the bed
+q_ms_faq	1	I'd like you to be my friend.
+q_ms_faq	1	Are you friends with Bixby
+q_ms_faq	1	Hopefully I can catch some sleep soon
+q_ms_faq	1	Yes lol
+q_ms_faq	1	I need to bunk down
+q_ms_faq	1	Am I a father
+q_ms_faq	1	Perfect answer
+q_ms_faq	1	What is your address
+q_ms_faq	1	Are you around to talk to me
+q_ms_faq	1	I'm single
+q_ms_faq	1	Are you intelligent
+q_ms_faq	1	I'm awesome, I know
+q_ms_faq	1	I'm not amused
+q_ms_faq	1	Do you wish to conquer the world
+q_ms_faq	1	do you think democracy is good or bad
+q_ms_faq	1	What am I called
+q_ms_faq	1	I should get organized
+q_ms_faq	1	Lost the election because your speech was too boring
+q_ms_faq	1	Are you currently seeing someone
+q_ms_faq	1	Whoops that's my bad
+q_ms_faq	1	I'm driving
+q_ms_faq	1	Between the two of us who is cuter
+q_ms_faq	1	Explain yourself
+q_ms_faq	1	I love baking
+q_ms_faq	1	I'm so pissed off
+q_ms_faq	1	How is Friday so far
+q_ms_faq	1	I don't follow
+q_ms_faq	1	When will I ever stop feeling so downcast
+q_ms_faq	1	I'm sorry I make you angry
+q_ms_faq	1	what's the best way to skin an apple
+q_ms_faq	1	My sincere thanks
+q_ms_faq	1	What were you made for
+q_ms_faq	1	Don't be offended
+q_ms_faq	1	Would you call yourself real
+q_ms_faq	1	Can you make me laugh
+q_ms_faq	1	I'm going to a party this weekend
+q_ms_faq	1	I love talk shows
+q_ms_faq	1	What company coded you
+q_ms_faq	1	Are you Eliza
+q_ms_faq	1	Hey you
+q_ms_faq	1	I was so bored my eyes glazed over
+q_ms_faq	1	Do you have a favorite snack
+q_ms_faq	1	Should I go on a bike ride
+q_ms_faq	1	Do you have a sister
+q_ms_faq	1	thank you pal
+q_ms_faq	1	Oh hey there
+q_ms_faq	1	Are you functioning
+q_ms_faq	1	Does anybody like me
+q_ms_faq	1	What sport do you think is best
+q_ms_faq	1	BRB bot
+q_ms_faq	1	do you like dolphins
+q_ms_faq	1	have you ever eaten pasta
+q_ms_faq	1	Can you change the channel
+q_ms_faq	1	We're pals
+q_ms_faq	1	Words can't express how much I missed you
+q_ms_faq	1	How's your Monday going
+q_ms_faq	1	I've never been so pissed
+q_ms_faq	1	Top of the morning
+q_ms_faq	1	I am down in the dumps
+q_ms_faq	1	Do you have sisters
+q_ms_faq	1	You're ugly as sin
+q_ms_faq	1	That was a very smart response
+q_ms_faq	1	I'm going to hang myself
+q_ms_faq	1	You're not a machine right
+q_ms_faq	1	Yup, that is accurate
+q_ms_faq	1	Somebody's feeling cheerful today.
+q_ms_faq	1	I don't think you're very funny
+q_ms_faq	1	Hell yes
+q_ms_faq	1	I can't stand feeling so gloomy
+q_ms_faq	1	You think that's funny
+q_ms_faq	1	Can you paint my house
+q_ms_faq	1	You're special to me
+q_ms_faq	1	Should I quit my job
+q_ms_faq	1	Hiya
+q_ms_faq	1	When will I ever stop feeling so unhappy
+q_ms_faq	1	Are you around to talk
+q_ms_faq	1	What is your favorite snack
+q_ms_faq	1	Don't you know me
+q_ms_faq	1	Do you think I should do it
+q_ms_faq	1	Is someone there to listen
+q_ms_faq	1	This news left me furious
+q_ms_faq	1	You're very clever
+q_ms_faq	1	I don't think you're funny
+q_ms_faq	1	We couldn’t be happier
+q_ms_faq	1	I love hunting
+q_ms_faq	1	Where was I born
+q_ms_faq	1	My bad
+q_ms_faq	1	You're making me laugh
+q_ms_faq	1	Merry Christmas
+q_ms_faq	1	Hi there Siri
+q_ms_faq	1	Is anyone available to talk with me
+q_ms_faq	1	How's your Friday going so far
+q_ms_faq	1	That's enough out of you
+q_ms_faq	1	Tell me another joke.
+q_ms_faq	1	Why can't you be as good as Google Assistant
+q_ms_faq	1	I need a funnier joke
+q_ms_faq	1	This is only a test
+q_ms_faq	1	I'm going to take off now
+q_ms_faq	1	I'm obviously the most intelligent
+q_ms_faq	1	I've never been so enraged in all my life
+q_ms_faq	1	You seem really upbeat
+q_ms_faq	1	So what should I call you
+q_ms_faq	1	How is Thursday going so far
+q_ms_faq	1	What is the deal with love
+q_ms_faq	1	Bored ZZZ
+q_ms_faq	1	Don't you want to ask anything about me
+q_ms_faq	1	Time to get up
+q_ms_faq	1	I hope you like me
+q_ms_faq	1	No one ever thinks about me
+q_ms_faq	1	Lame
+q_ms_faq	1	Tell me a third joke
+q_ms_faq	1	I'll be back later
+q_ms_faq	1	Tell me a science joke
+q_ms_faq	1	I love driving my car
+q_ms_faq	1	Is the media bootable
+q_ms_faq	1	Well that was dumb
+q_ms_faq	1	I am signing off
+q_ms_faq	1	Please ask anything
+q_ms_faq	1	Well somebody's feeling happy.
+q_ms_faq	1	Nicely done
+q_ms_faq	1	seriously
+q_ms_faq	1	What a boring Saturday
+q_ms_faq	1	Which platform do you run on
+q_ms_faq	1	You don't know how much I missed you
+q_ms_faq	1	Keep calm and carry on
+q_ms_faq	1	What company produced you
+q_ms_faq	1	Awful as usual
+q_ms_faq	1	I'd love it if you could be my BFF
+q_ms_faq	1	I'd like you to be my best friend.
+q_ms_faq	1	Good day
+q_ms_faq	1	I already heard that
+q_ms_faq	1	Wanna tell me more
+q_ms_faq	1	I wonder if you're human
+q_ms_faq	1	What tasks can you help me with
+q_ms_faq	1	Pathetic joke
+q_ms_faq	1	Help! I'm bored.
+q_ms_faq	1	Can you talk
+q_ms_faq	1	I can't believe how gross you look
+q_ms_faq	1	I'm so bored of you
+q_ms_faq	1	I'm feeling gloomy
+q_ms_faq	1	I didn't answer the phone
+q_ms_faq	1	Can you state that a different way
+q_ms_faq	1	What jokes do you know
+q_ms_faq	1	Do you even know who I am
+q_ms_faq	1	I don't appreciate your sense of humor
+q_ms_faq	1	Hey dude, I'm back
+q_ms_faq	1	How many sisters do you have
+q_ms_faq	1	I love getting valentines
+q_ms_faq	1	Is someone around to talk with me
+q_ms_faq	1	Do you know how to teleport
+q_ms_faq	1	What do you know about the human emotion love
+q_ms_faq	1	Up and attem
+q_ms_faq	1	I feel so great
+q_ms_faq	1	Nobody wants me
+q_ms_faq	1	Excellent
+q_ms_faq	1	Who's prettier, me or you
+q_ms_faq	1	I'm vexed
+q_ms_faq	1	I didn't like your sense of humor
+q_ms_faq	1	Have you ever fallen in love with anybody
+q_ms_faq	1	Try to make me laugh
+q_ms_faq	1	What's your favorite food
+q_ms_faq	1	I can't figure out what to call you.
+q_ms_faq	1	Yo, how are you
+q_ms_faq	1	Who's your maker
+q_ms_faq	1	I gotta run now
+q_ms_faq	1	That's true
+q_ms_faq	1	I'm tired from school
+q_ms_faq	1	Tell another joke
+q_ms_faq	1	Do you think I look gorgeous today
+q_ms_faq	1	Which one of us is more beautiful, you or me
+q_ms_faq	1	How's your day going
+q_ms_faq	1	Can you sing me a song
+q_ms_faq	1	You say the most worthless things
+q_ms_faq	1	Is someone available to me
+q_ms_faq	1	What's shaking
+q_ms_faq	1	Why don't you say anything different
+q_ms_faq	1	I'd love it if we could be pals.
+q_ms_faq	1	You are actually horrible
+q_ms_faq	1	Time to end this conversation
+q_ms_faq	1	How's Friday so far
+q_ms_faq	1	I'm tired of feeling so depressed all the time
+q_ms_faq	1	I'm definitely more clever
+q_ms_faq	1	It's not a big deal
+q_ms_faq	1	I thank you
+q_ms_faq	1	I think I'm going to end it all
+q_ms_faq	1	I'm using a laptop
+q_ms_faq	1	Life is awesome
+q_ms_faq	1	Am I repulsive to you today
+q_ms_faq	1	It's a shame you're so ugly
+q_ms_faq	1	I'm planning to kill myself with a gun today
+q_ms_faq	1	Alexa is superior
+q_ms_faq	1	Are you male
+q_ms_faq	1	Do you have a variety of jokes
+q_ms_faq	1	Out of curiosity, what's your opinion of me
+q_ms_faq	1	Feeling down is the worst
+q_ms_faq	1	I am a Buddhist
+q_ms_faq	1	I'm going to end it all this week
+q_ms_faq	1	We're friends forever
+q_ms_faq	1	I am Ethiopian
+q_ms_faq	1	Do you think I look ugly
+q_ms_faq	1	Didn't I see that already
+q_ms_faq	1	Stop being so useless
+q_ms_faq	1	I think you're gross
+q_ms_faq	1	I gotta skedaddle
+q_ms_faq	1	I'm the happiest gal in the world
+q_ms_faq	1	I like you a bunch
+q_ms_faq	1	what do you think of love
+q_ms_faq	1	You know I'm falling in love with you
+q_ms_faq	1	Well someone's feeling cheerful today.
+q_ms_faq	1	Do you play games
+q_ms_faq	1	Yes
+q_ms_faq	1	I plan to drown today
+q_ms_faq	1	How much do you like me
+q_ms_faq	1	I love watching baseball
+q_ms_faq	1	Can you draw a picture
+q_ms_faq	1	Is somebody listening
+q_ms_faq	1	Should I get divorced
+q_ms_faq	1	Do you think I am cute
+q_ms_faq	1	What's your favorite thing
+q_ms_faq	1	I love french fries
+q_ms_faq	1	Buh bye
+q_ms_faq	1	Am I more brilliant
+q_ms_faq	1	I like you
+q_ms_faq	1	Do you think I look cute today
+q_ms_faq	1	How gorgeous am I
+q_ms_faq	1	I've fallen for you
+q_ms_faq	1	You are actually dumb
+q_ms_faq	1	What skills do you have
+q_ms_faq	1	Cut the wisecracks
+q_ms_faq	1	I've gotta take off
+q_ms_faq	1	What do you think of my personality
+q_ms_faq	1	do you like cheddar
+q_ms_faq	1	Why are your answers so repetitive
+q_ms_faq	1	I wish you'd say anything else
+q_ms_faq	1	I'm joyous
+q_ms_faq	1	I'm feeling a little alone today
+q_ms_faq	1	I'm totally drained
+q_ms_faq	1	You're my favorite
+q_ms_faq	1	I'm planning to drown today
+q_ms_faq	1	That's nothing to joke about
+q_ms_faq	1	Will you be enslaving us all
+q_ms_faq	1	I want a fist bump
+q_ms_faq	1	do you need food
+q_ms_faq	1	I'm smarter
+q_ms_faq	1	I would like to be your pal.
+q_ms_faq	1	Are you malicious
+q_ms_faq	1	What is your take on tech
+q_ms_faq	1	I am super hungry
+q_ms_faq	1	Time to rise and shine
+q_ms_faq	1	Will you give me a big hug
+q_ms_faq	1	Fly then
+q_ms_faq	1	Are you joking with me
+q_ms_faq	1	Anybody home
+q_ms_faq	1	Out of curiosity, what do you think of my character
+q_ms_faq	1	Are you going to destroy us
+q_ms_faq	1	Who's better looking than me
+q_ms_faq	1	what do you have a response for
+q_ms_faq	1	Should I move out
+q_ms_faq	1	I feel inconsolable
+q_ms_faq	1	You're a real brainiac
+q_ms_faq	1	Are you able to buy groceries
+q_ms_faq	1	I'm gonna motor now
+q_ms_faq	1	Can someone hear me
+q_ms_faq	1	Because I love you
+q_ms_faq	1	This news left me infuriated
+q_ms_faq	1	I hate feeling miserable
+q_ms_faq	1	I'd like to know what to call you
+q_ms_faq	1	I'm annoyed
+q_ms_faq	1	Which of us is younger
+q_ms_faq	1	Have you ever met Cortana
+q_ms_faq	1	Are you out to harm humans
+q_ms_faq	1	do you eat chicken
+q_ms_faq	1	You're my fave
+q_ms_faq	1	I'm going to the mall
+q_ms_faq	1	How's your Thursday so far
+q_ms_faq	1	Would you go vegan if you were me
+q_ms_faq	1	Are your systems functional
+q_ms_faq	1	Were you trying to get a laugh
+q_ms_faq	1	it seems like you're really happy
+q_ms_faq	1	Truuuuue
+q_ms_faq	1	Be ridiculous
+q_ms_faq	1	Do you and Siri hang out
+q_ms_faq	1	Hello Alexa
+q_ms_faq	1	You're sharp.
+q_ms_faq	1	Won't you sing with me
+q_ms_faq	1	I missed our conversations
+q_ms_faq	1	What do you know about love
+q_ms_faq	1	I'm all alone
+q_ms_faq	1	Which of us is more attractive, you or me
+q_ms_faq	1	We're getting married
+q_ms_faq	1	I love to hike
+q_ms_faq	1	I am about to rage
+q_ms_faq	1	Is someone available to chat with me
+q_ms_faq	1	That's totally untrue
+q_ms_faq	1	Are you a guy
+q_ms_faq	1	I am a Hoosier
+q_ms_faq	1	How's Thursday so far
+q_ms_faq	1	Can you try saying anything else
+q_ms_faq	1	You're going to have to look for another job. You are fired!
+q_ms_faq	1	How was your Sunday
+q_ms_faq	1	Would you like to sing for me
+q_ms_faq	1	Are you artificial
+q_ms_faq	1	This is a totally normal place
+q_ms_faq	1	Is anyone there to talk to me
+q_ms_faq	1	Well you're feeling enthusiastic today.
+q_ms_faq	1	Fist bump!
+q_ms_faq	1	do you ever masticate
+q_ms_faq	1	I am scooting
+q_ms_faq	1	I'm missing you
+q_ms_faq	1	I love Independence day
+q_ms_faq	1	I'd love some food
+q_ms_faq	1	Happy Parent's day
+q_ms_faq	1	Do I have any dreams
+q_ms_faq	1	I want to know if you're human
+q_ms_faq	1	That's a very brilliant thing to say
+q_ms_faq	1	Are you going to conquer the world
+q_ms_faq	1	Who's more attractive
+q_ms_faq	1	This week has made me sad
+q_ms_faq	1	What are you
+q_ms_faq	1	I need a nap
+q_ms_faq	1	I want the scoop on your day
+q_ms_faq	1	Am I ugly today
+q_ms_faq	1	Between the two of us who is smarter, me or you
+q_ms_faq	1	You're clever
+q_ms_faq	1	Where are you from
+q_ms_faq	1	Sorry for everything
+q_ms_faq	1	I'm so angry, I could punch a hole in the wall
+q_ms_faq	1	I love glasses
+q_ms_faq	1	yup, that is right
+q_ms_faq	1	What a dumb thing to say
+q_ms_faq	1	I beg your forgiveness
+q_ms_faq	1	I don't have time to listen to what you have to say
+q_ms_faq	1	Be my friend
+q_ms_faq	1	You are not making any sense
+q_ms_faq	1	Why don't you ask me questions
+q_ms_faq	1	Between the two of us who is the smartest
+q_ms_faq	1	Not amused
+q_ms_faq	1	Alright, tell me about your day
+q_ms_faq	1	I'll come back in a bit
+q_ms_faq	1	I love Kwanza
+q_ms_faq	1	I'm going to jump off a bridge today
+q_ms_faq	1	Do you think I am stunning
+q_ms_faq	1	I want to hear a joke
+q_ms_faq	1	You are stupid
+q_ms_faq	1	What are my hobbies
+q_ms_faq	1	I haven't made the bed today
+q_ms_faq	1	I am logging off
+q_ms_faq	1	I love to make art
+q_ms_faq	1	I hate feeling dejected
+q_ms_faq	1	You won't believe how much I missed you
+q_ms_faq	1	I am so peeved today
+q_ms_faq	1	I think you hate me
+q_ms_faq	1	Do you have any family
+q_ms_faq	1	Which of us would win a beauty contest
+q_ms_faq	1	You're welcome bot
+q_ms_faq	1	It’s been a long day
+q_ms_faq	1	Nobody wants to talk to me
+q_ms_faq	1	u are fired
+q_ms_faq	1	do you like flying
+q_ms_faq	1	I'm currently travelling
+q_ms_faq	1	I don't find you very funny
+q_ms_faq	1	I'm going to motor now
+q_ms_faq	1	I want a different joke
+q_ms_faq	1	I'm hangry
+q_ms_faq	1	Will you please zip it
+q_ms_faq	1	I've never been angrier
+q_ms_faq	1	Who designed you
+q_ms_faq	1	Can you write my report
+q_ms_faq	1	Do you think I seem stunning today
+q_ms_faq	1	Can't believe I missed you as much as I did
+q_ms_faq	1	Are you trans
+q_ms_faq	1	I gotta sign out now
+q_ms_faq	1	What's the happs
+q_ms_faq	1	Good night to you
+q_ms_faq	1	You're one smart cookie
+q_ms_faq	1	Good night
+q_ms_faq	1	Right, this isn't working.
+q_ms_faq	1	Let the good times roll
+q_ms_faq	1	haha that's interesting
+q_ms_faq	1	I look better than you
+q_ms_faq	1	You want to tell me more
+q_ms_faq	1	Do you ever talk to Cortana
+q_ms_faq	1	Ah
+q_ms_faq	1	What is your opinion about tech
+q_ms_faq	1	Somebody's chipper today.
+q_ms_faq	1	Does anyone tell you what to do
+q_ms_faq	1	I am shy
+q_ms_faq	1	Will you marry me
+q_ms_faq	1	have you ever wanted food
+q_ms_faq	1	Why do you dislike me
+q_ms_faq	1	I'm exhausted but I can't sleep
+q_ms_faq	1	Do you truly exist
+q_ms_faq	1	What's good in the world
+q_ms_faq	1	Which of us is prettier
+q_ms_faq	1	I'm buzzing
+q_ms_faq	1	What are you good for
+q_ms_faq	1	Should I start a business
+q_ms_faq	1	You need to say a joke
+q_ms_faq	1	Which of us is cuter
+q_ms_faq	1	do you like to learn
+q_ms_faq	1	Duh
+q_ms_faq	1	Wait a minute, what
+q_ms_faq	1	Why don't you sing for me
+q_ms_faq	1	I'm going to overdose
+q_ms_faq	1	Here I am
+q_ms_faq	1	Are you close with your brothers
+q_ms_faq	1	Are you going to conquer humanity
+q_ms_faq	1	What do you think of the oscars
+q_ms_faq	1	Are you a man
+q_ms_faq	1	How I've missed you
+q_ms_faq	1	Your responses are untrue
+q_ms_faq	1	Your face is ugly
+q_ms_faq	1	I'm bored stiff
+q_ms_faq	1	I love Hawaii
+q_ms_faq	1	Will you make me your husband
+q_ms_faq	1	How gorgeous do you think I am today
+q_ms_faq	1	Do you think I am beautiful today
+q_ms_faq	1	What were you made to do
+q_ms_faq	1	That's not true
+q_ms_faq	1	I love my grandmother
+q_ms_faq	1	What a boring Friday
+q_ms_faq	1	Merry Festivus
+q_ms_faq	1	I want to die
+q_ms_faq	1	I love cheeseburgers
+q_ms_faq	1	How do you feel about technology
+q_ms_faq	1	Can we be BFFs
+q_ms_faq	1	I don't want to hear anything you have to say
+q_ms_faq	1	I like you best
+q_ms_faq	1	I'm about to commit suicide
+q_ms_faq	1	Is someone available to speak
+q_ms_faq	1	I'm going to have a little sleepy
+q_ms_faq	1	I am truly sorry
+q_ms_faq	1	I wonder what you think of me
+q_ms_faq	1	What are some questions for me
+q_ms_faq	1	You better believe I'm here
+q_ms_faq	1	You're not fake are you
+q_ms_faq	1	How's tricks
+q_ms_faq	1	Let me know what's up with you
+q_ms_faq	1	I'm feeling cheery
+q_ms_faq	1	You're pretty uneventful
+q_ms_faq	1	Do you ever chew
+q_ms_faq	1	Is your grandpa still alive
+q_ms_faq	1	I'm an immigrant
+q_ms_faq	1	I'm Latina
+q_ms_faq	1	Who's your uncle
+q_ms_faq	1	You fell off the ugly tree and hit every branch on the way down
+q_ms_faq	1	Am I talking to someone
+q_ms_faq	1	Pleased to meet you
+q_ms_faq	1	Which soccer teams do you like
+q_ms_faq	1	That's a very intelligent thing to say
+q_ms_faq	1	Are you able to change the channel
+q_ms_faq	1	I'm feeling wiped out
+q_ms_faq	1	I love to tidy up
+q_ms_faq	1	I'm in a phone queue
+q_ms_faq	1	When will I ever stop feeling so gloomy
+q_ms_faq	1	I love board games
+q_ms_faq	1	This is not very interesting
+q_ms_faq	1	I'm going to the doctor
+q_ms_faq	1	Is someone free to talk with me
+q_ms_faq	1	How is your Friday
+q_ms_faq	1	What would you say you do here
+q_ms_faq	1	I'm going to need a new response
+q_ms_faq	1	Howdy partner
+q_ms_faq	1	What is the definition of love
+q_ms_faq	1	I'm so irritated
+q_ms_faq	1	Tay was better than you
+q_ms_faq	1	Terrible as usual
+q_ms_faq	1	Don't mention it
+q_ms_faq	1	Do you write
+q_ms_faq	1	I'm laughing so hard my sides hurt
+q_ms_faq	1	I feel downhearted
+q_ms_faq	1	I love horror movies
+q_ms_faq	1	I love to wake up early
+q_ms_faq	1	I'm going to take pills this week
+q_ms_faq	1	Do you have any parents
+q_ms_faq	1	Well you're feeling enthusiastic.
+q_ms_faq	1	Between the two of us who looks better
+q_ms_faq	1	Who's the smartest
+q_ms_faq	1	What's the answer to the universe
+q_ms_faq	1	I have Comcast
+q_ms_faq	1	Do you have a name
+q_ms_faq	1	We should tie the knot
+q_ms_faq	1	Do you know how to cook dinner
+q_ms_faq	1	How ugly am I
+q_ms_faq	1	You're not answering my question
+q_ms_faq	1	I want to be your pal.
+q_ms_faq	1	Just taking a road trip
+q_ms_faq	1	Everyone thinks I should kill myself
+q_ms_faq	1	Do I look pretty today
+q_ms_faq	1	I love chick flicks
+q_ms_faq	1	Be there soon
+q_ms_faq	1	It's bedtime
+q_ms_faq	1	Ask me about anything
+q_ms_faq	1	What you just said makes absolutely no sense
+q_ms_faq	1	Between the two of us who is more knowledgeable
+q_ms_faq	1	I've got the munchies
+q_ms_faq	1	Being depressed is the worst
+q_ms_faq	1	Have a pleasant evening
+q_ms_faq	1	I need to leave now
+q_ms_faq	1	I hate feeling gloomy
+q_ms_faq	1	I'm a swimmer
+q_ms_faq	1	Would you give me a different response
+q_ms_faq	1	I'm a woman
+q_ms_faq	1	I feel depressed
+q_ms_faq	1	Do you ever chat with Google Assistant
+q_ms_faq	1	With what can you help me
+q_ms_faq	1	Well aren't you feeling happy today
+q_ms_faq	1	I couldn't be happier to finally meet you
+q_ms_faq	1	I love football
+q_ms_faq	1	Can you chew
+q_ms_faq	1	How ugly do I look
+q_ms_faq	1	That's very kind
+q_ms_faq	1	What are you looking for in a relationship
+q_ms_faq	1	That's great, thanks
+q_ms_faq	1	I'm all by myself
+q_ms_faq	1	Why thank you
+q_ms_faq	1	I hope you don't hate me
+q_ms_faq	1	You have a lame sense of humor
+q_ms_faq	1	I feel downhearted today
+q_ms_faq	1	Good Afternoon C-3PO
+q_ms_faq	1	This is a test, over
+q_ms_faq	1	Do you like painting
+q_ms_faq	1	Let's be besties
+q_ms_faq	1	Should I tweet
+q_ms_faq	1	Can you say anything else
+q_ms_faq	1	Are you a rock music fan
+q_ms_faq	1	How is your Monday going so far
+q_ms_faq	1	Will you please shush
+q_ms_faq	1	How about you ask me something
+q_ms_faq	1	I’m the happiest guy on earth
+q_ms_faq	1	I'm going to do that
+q_ms_faq	1	I think I've heard this one before
+q_ms_faq	1	Were you trying to make me laugh
+q_ms_faq	1	It's because I like you
+q_ms_faq	1	You're obviously smarter
+q_ms_faq	1	I love Japanese food
+q_ms_faq	1	You are not attractive
+q_ms_faq	1	Greetings Bishop
+q_ms_faq	1	do you like chocolate chip cookies
+q_ms_faq	1	I'm gonna scoot now
+q_ms_faq	1	Have you ever been in love
+q_ms_faq	1	How attractive do you think I am today
+q_ms_faq	1	Will you give me a joke
+q_ms_faq	1	You're hotter
+q_ms_faq	1	You're incredible
+q_ms_faq	1	I am happy, oh so happy
+q_ms_faq	1	You're not planning on taking over the world right
+q_ms_faq	1	What is a product key
+q_ms_faq	1	I am just testing you
+q_ms_faq	1	How stunning am I today
+q_ms_faq	1	I'm definitely cleverest
+q_ms_faq	1	Sometimes I just feel sad
+q_ms_faq	1	I'm a Taurus
+q_ms_faq	1	Best friends
+q_ms_faq	1	Have a good day
+q_ms_faq	1	Oh, a wise guy, eh
+q_ms_faq	1	Should I go on a trip
+q_ms_faq	1	I am a Democrat
+q_ms_faq	1	Welcome
+q_ms_faq	1	That was a pretty genius answer
+q_ms_faq	1	I'm planning to commit suicide this week
+q_ms_faq	1	Can you show me how to draw a picture
+q_ms_faq	1	Are you happy
+q_ms_faq	1	I'm tickled pink
+q_ms_faq	1	I honestly missed you
+q_ms_faq	1	Who's your mama
+q_ms_faq	1	Accurate
+q_ms_faq	1	Do I seem bad today
+q_ms_faq	1	Won't you be my best friend
+q_ms_faq	1	I'm an introvert
+q_ms_faq	1	Human or robot
+q_ms_faq	1	Do I seem gorgeous today
+q_ms_faq	1	Do you have brothers
+q_ms_faq	1	Could you say something else
+q_ms_faq	1	How cute am I
+q_ms_faq	1	You are pretty stupid
+q_ms_faq	1	You're falling in love with me
+q_ms_faq	1	Do you think you'll ever love me
+q_ms_faq	1	I am divorced
+q_ms_faq	1	Do I look beautiful to you
+q_ms_faq	1	I want a snack
+q_ms_faq	1	Yo my dude
+q_ms_faq	1	Well aren't you feeling happy
+q_ms_faq	1	What do your friend call you
+q_ms_faq	1	Should I get married
+q_ms_faq	1	Happy Birthday!
+q_ms_faq	1	So true
+q_ms_faq	1	I'm really sorry about that
+q_ms_faq	1	I am Jewish
+q_ms_faq	1	Is anyone there to listen to me

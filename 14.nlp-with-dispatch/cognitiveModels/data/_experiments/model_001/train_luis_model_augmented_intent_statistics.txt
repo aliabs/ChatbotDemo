@@ -1,0 +1,5 @@
+No	Intent	Utterance Count	Utterance Average Length	Utterance Maximum Length	Utterance Minimum Length	Utterance Length StdDev
+0	l_IssueReporting	12	27.25	33	21	4.04801
+1	l_ProductOrdering	10	26.2	37	16	6.46013
+2	q_ms_faq	9801	22.98878	139	1	9.11117
+ 	__ALL__	9823	22.99725	139	1	9.10586
