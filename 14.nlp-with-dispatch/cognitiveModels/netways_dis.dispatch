@@ -1,0 +1,49 @@
+{
+  "authoringRegion": "westus",
+  "hierarchical": true,
+  "useAllTrainingData": true,
+  "dontReviseUtterance": false,
+  "copyLuisData": true,
+  "normalizeDiacritics": true,
+  "services": [
+    {
+      "intentName": "q_ms_faq",
+      "includePrompts": true,
+      "kbId": "01305c7e-f972-4772-ad8f-7f8d5688c0b5",
+      "subscriptionKey": "f495ca7f-ca3e-4cb6-98a8-ec2587efba4d",
+      "type": "qna",
+      "name": "DemoKB",
+      "id": "1"
+    },
+    {
+      "intentName": "l_IssueReporting",
+      "appId": "b80f94ae-439a-44f0-ae2f-492af5954e9a",
+      "authoringKey": "d68868a246ee4552b246d1249ae2273e",
+      "version": "0.1",
+      "region": "westus",
+      "type": "luis",
+      "name": "IssueReporting",
+      "id": "2"
+    },
+    {
+      "intentName": "l_ProductOrdering",
+      "appId": "1d50b722-c00f-410e-83b3-aed894172bda",
+      "authoringKey": "d68868a246ee4552b246d1249ae2273e",
+      "version": "0.1",
+      "region": "westus",
+      "type": "luis",
+      "name": "ProductOrdering",
+      "id": "3"
+    }
+  ],
+  "serviceIds": [
+    "1",
+    "2",
+    "3"
+  ],
+  "authoringKey": "d68868a246ee4552b246d1249ae2273e",
+  "version": "Dispatch",
+  "region": "westus",
+  "type": "dispatch",
+  "name": "netways_dis"
+}
