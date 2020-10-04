@@ -1,0 +1,204 @@
+{
+  "luis_schema_version": "7.0.0",
+  "intents": [
+    {
+      "name": "None",
+      "features": []
+    },
+    {
+      "name": "Order.Create",
+      "features": []
+    },
+    {
+      "name": "Order.Track",
+      "features": []
+    }
+  ],
+  "entities": [
+    {
+      "name": "action",
+      "children": [],
+      "roles": [],
+      "features": []
+    },
+    {
+      "name": "order",
+      "children": [],
+      "roles": [],
+      "features": []
+    },
+    {
+      "name": "track",
+      "children": [],
+      "roles": [],
+      "features": []
+    }
+  ],
+  "hierarchicals": [],
+  "composites": [],
+  "closedLists": [],
+  "prebuiltEntities": [],
+  "utterances": [
+    {
+      "text": "any updates on my order",
+      "intent": "Order.Track",
+      "entities": [
+        {
+          "entity": "track",
+          "startPos": 4,
+          "endPos": 10,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "create new order",
+      "intent": "Order.Create",
+      "entities": [
+        {
+          "entity": "action",
+          "startPos": 0,
+          "endPos": 5,
+          "children": []
+        },
+        {
+          "entity": "order",
+          "startPos": 7,
+          "endPos": 15,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "follow up on my order",
+      "intent": "Order.Track",
+      "entities": [
+        {
+          "entity": "track",
+          "startPos": 0,
+          "endPos": 8,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "i want to buy a new laptop",
+      "intent": "Order.Create",
+      "entities": [
+        {
+          "entity": "action",
+          "startPos": 2,
+          "endPos": 8,
+          "children": []
+        },
+        {
+          "entity": "order",
+          "startPos": 10,
+          "endPos": 12,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "i want to buy new items",
+      "intent": "Order.Create",
+      "entities": [
+        {
+          "entity": "action",
+          "startPos": 2,
+          "endPos": 8,
+          "children": []
+        },
+        {
+          "entity": "order",
+          "startPos": 14,
+          "endPos": 22,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "i want to order a new laptop",
+      "intent": "Order.Create",
+      "entities": [
+        {
+          "entity": "action",
+          "startPos": 2,
+          "endPos": 8,
+          "children": []
+        },
+        {
+          "entity": "order",
+          "startPos": 10,
+          "endPos": 14,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "i want to purchase an office license",
+      "intent": "Order.Create",
+      "entities": [
+        {
+          "entity": "action",
+          "startPos": 2,
+          "endPos": 8,
+          "children": []
+        },
+        {
+          "entity": "order",
+          "startPos": 10,
+          "endPos": 17,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "i want to track my order",
+      "intent": "Order.Track",
+      "entities": [
+        {
+          "entity": "track",
+          "startPos": 10,
+          "endPos": 14,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "what is the delivery date of my order",
+      "intent": "Order.Track",
+      "entities": [
+        {
+          "entity": "track",
+          "startPos": 12,
+          "endPos": 19,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "when i will receive my order",
+      "intent": "Order.Track",
+      "entities": [
+        {
+          "entity": "track",
+          "startPos": 7,
+          "endPos": 18,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "versionId": "0.1",
+  "name": "ProductOrdering",
+  "desc": "order product from ms",
+  "culture": "en-us",
+  "tokenizerVersion": "1.0.0",
+  "patternAnyEntities": [],
+  "regex_entities": [],
+  "phraselists": [],
+  "regex_features": [],
+  "patterns": [],
+  "settings": []
+}

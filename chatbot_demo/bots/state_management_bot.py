@@ -9,9 +9,16 @@ from botbuilder.schema import ChannelAccount
 
 from data_models import ConversationData, UserProfile, Operation, Case
 
+from transactional_case_recognizer import TransactionalCaseRecognizer
+
+from helpers.luis_helper import LuisHelper
+
+from helpers.luis_helper import Intent
+
 
 class StateManagementBot(ActivityHandler):
-    def __init__(self, conversation_state: ConversationState, user_state: UserState):
+    def __init__(self, conversation_state: ConversationState, user_state: UserState,
+                 luis_recognizer: TransactionalCaseRecognizer):
         if conversation_state is None:
             raise TypeError(
                 "[StateManagementBot]: Missing parameter. conversation_state is required but None was given"
@@ -23,6 +30,7 @@ class StateManagementBot(ActivityHandler):
 
         self.conversation_state = conversation_state
         self.user_state = user_state
+        self._luis_recognizer = luis_recognizer
 
         self.conversation_data_accessor = self.conversation_state.create_property(
             "ConversationData"
@@ -70,18 +78,55 @@ class StateManagementBot(ActivityHandler):
 
                 # Set the flag to true, so we don't prompt in the next turn.
                 conversation_data.prompted_for_user_name = True
-        elif 'new' in user_input or conversation_data.last_operation_asked == Operation.NEW:
-            await self._fill_out_new_case(conversation_data, user_profile, turn_context)
-        elif 'track' in user_input or conversation_data.last_operation_asked == Operation.TRACK:
-            await self._fill_out_track_case(conversation_data, user_profile, turn_context)
-        elif not conversation_data.prompted_for_survey:
-            await turn_context.send_activity(
-                f"{user_profile.name} would you like to participate on survey?"
-            )
         else:
+            await self.luis_check(turn_context)
+            if 'new' in user_input or conversation_data.last_operation_asked == Operation.NEW:
+                await self._fill_out_new_case(conversation_data, user_profile, turn_context)
+            elif 'track' in user_input or conversation_data.last_operation_asked == Operation.TRACK:
+                await self._fill_out_track_case(conversation_data, user_profile, turn_context)
+            elif not conversation_data.prompted_for_survey:
+                await turn_context.send_activity(
+                    f"{user_profile.name} would you like to participate on survey?"
+                )
+            else:
+                await turn_context.send_activity(
+                    f"{user_profile.name}. How can we help you?"
+                )
+
+    async def luis_check(self, turn_context: TurnContext):
+        if not self._luis_recognizer.is_configured:
+            # LUIS is not configured, we just run the BookingDialog path with an empty BookingDetailsInstance.
             await turn_context.send_activity(
-                f"{user_profile.name}. How can we help you?"
+                "please configure LUIS"
             )
+            # Call LUIS and gather any potential booking details. (Note the TurnContext has the response to the prompt.)
+        intent, luis_result = await LuisHelper.execute_luis_query(
+            self._luis_recognizer, turn_context
+        )
+
+        if intent == Intent.BOOK_FLIGHT.value and luis_result:
+            # Show a warning for Origin and Destination if we can't resolve them.
+            await turn_context.send_activity(
+                "booking"
+            )
+
+            # Run the BookingDialog giving it whatever details we have from the LUIS call.
+            # return await step_context.begin_dialog(self._booking_dialog_id, luis_result)
+
+        if intent == Intent.GET_WEATHER.value:
+            get_weather_text = "TODO: get weather flow here"
+            await turn_context.send_activity(
+                "please configure LUIS"
+            )
+
+        else:
+            didnt_understand_text = (
+                "Sorry, I didn't get that. Please try asking in a different way"
+            )
+            await turn_context.send_activity(
+                didnt_understand_text
+            )
+
 
     async def _fill_out_new_case(
             self, flow: ConversationData, profile: UserProfile, turn_context: TurnContext

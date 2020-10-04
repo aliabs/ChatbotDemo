@@ -22,6 +22,8 @@ from botbuilder.schema import Activity, ActivityTypes
 from bots import StateManagementBot
 from config import DefaultConfig
 
+from transactional_case_recognizer import TransactionalCaseRecognizer
+
 CONFIG = DefaultConfig()
 
 # Create adapter.
@@ -66,12 +68,13 @@ async def on_error(context: TurnContext, error: Exception):
 ADAPTER.on_turn_error = on_error
 
 # Create MemoryStorage and state
+RECOGNIZER = TransactionalCaseRecognizer(CONFIG)
 MEMORY = MemoryStorage()
 USER_STATE = UserState(MEMORY)
 CONVERSATION_STATE = ConversationState(MEMORY)
 
 # Create Bot
-BOT = StateManagementBot(CONVERSATION_STATE, USER_STATE)
+BOT = StateManagementBot(CONVERSATION_STATE, USER_STATE, RECOGNIZER)
 
 
 # Listen for incoming requests on /api/messages.
